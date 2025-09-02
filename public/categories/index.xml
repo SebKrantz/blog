@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My Awesome Blog</title>
-    <link>https://example.org/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on My Awesome Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Sep 2025 20:55:46 +0200</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Sep 2025 20:55:46 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorial</title>
-      <link>https://example.org/categories/tutorial/</link>
+      <link>http://localhost:1313/categories/tutorial/</link>
       <pubDate>Tue, 02 Sep 2025 20:55:46 +0200</pubDate>
       
-      <guid>https://example.org/categories/tutorial/</guid>
+      <guid>http://localhost:1313/categories/tutorial/</guid>
       
       <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>General</title>
-      <link>https://example.org/categories/general/</link>
+      <link>http://localhost:1313/categories/general/</link>
       <pubDate>Tue, 02 Sep 2025 20:55:40 +0200</pubDate>
       
-      <guid>https://example.org/categories/general/</guid>
+      <guid>http://localhost:1313/categories/general/</guid>
       
       <description></description>
       

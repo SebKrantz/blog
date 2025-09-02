@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on My Awesome Blog</title>
-    <link>https://example.org/categories/tutorial/</link>
+    <link>http://localhost:1313/categories/tutorial/</link>
     <description>Recent content in Tutorial on My Awesome Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Sep 2025 20:55:46 +0200</lastBuildDate><atom:link href="https://example.org/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Sep 2025 20:55:46 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started With Hugo</title>
-      <link>https://example.org/posts/getting-started-with-hugo/</link>
+      <link>http://localhost:1313/posts/getting-started-with-hugo/</link>
       <pubDate>Tue, 02 Sep 2025 20:55:46 +0200</pubDate>
       
-      <guid>https://example.org/posts/getting-started-with-hugo/</guid>
+      <guid>http://localhost:1313/posts/getting-started-with-hugo/</guid>
       
       <description>&lt;h1 id=&#34;getting-started-with-hugo&#34;&gt;Getting Started With Hugo&lt;/h1&gt;
 &lt;p&gt;Hugo is one of the most popular static site generators available today. It&amp;rsquo;s fast, flexible, and perfect for blogs, documentation sites, and portfolios.&lt;/p&gt;
