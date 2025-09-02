@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Awesome Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on My Awesome Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Sep 2025 20:55:46 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Sep 2025 20:55:46 +0200</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>https://example.org/tags/hugo/</link>
       <pubDate>Tue, 02 Sep 2025 20:55:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>https://example.org/tags/hugo/</guid>
       
       <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Static-Site-Generator</title>
-      <link>http://localhost:1313/tags/static-site-generator/</link>
+      <link>https://example.org/tags/static-site-generator/</link>
       <pubDate>Tue, 02 Sep 2025 20:55:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/static-site-generator/</guid>
+      <guid>https://example.org/tags/static-site-generator/</guid>
       
       <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:1313/tags/tutorial/</link>
+      <link>https://example.org/tags/tutorial/</link>
       <pubDate>Tue, 02 Sep 2025 20:55:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <guid>https://example.org/tags/tutorial/</guid>
       
       <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
+      <link>https://example.org/tags/blog/</link>
       <pubDate>Tue, 02 Sep 2025 20:55:40 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/blog/</guid>
+      <guid>https://example.org/tags/blog/</guid>
       
       <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Welcome</title>
-      <link>http://localhost:1313/tags/welcome/</link>
+      <link>https://example.org/tags/welcome/</link>
       <pubDate>Tue, 02 Sep 2025 20:55:40 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/welcome/</guid>
+      <guid>https://example.org/tags/welcome/</guid>
       
       <description></description>
       

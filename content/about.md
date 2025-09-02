@@ -1,15 +1,15 @@
 +++
-date = '2025-09-02T20:55:50+02:00'
 draft = false
-title = 'About'
 description = 'Learn more about me and this blog'
 +++
 
 # About Me
 
-![My Photo](/images/profile.jpg)
-
 Hello! I'm Sebastian, a passionate developer and writer who loves sharing knowledge and experiences through this blog.
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/profile.png" alt="My Photo"/>
+</div>
 
 ## What I Do
 

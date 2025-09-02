@@ -1,6 +1,50 @@
 /* Custom CSS to match content width with navbar width 
  (Navbar width is 890px, but I lowered it to 850px)
-*/
+ */
+
+/* Profile avatar in navbar */
+.logo {
+  margin-left: 0 !important;
+  margin-top: 0 !important;
+}
+
+.navbar {
+  padding: .5rem 0 .5rem 0 !important;
+}
+
+.logo .profile-avatar {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid transparent;
+  transition: all 0.3s ease;
+  opacity: 1;
+}
+
+.logo .profile-avatar:hover {
+  opacity: 1;
+  border-color: #696969;
+  transform: scale(1.05);
+}
+
+/* Mobile adjustments for profile avatar */
+@media screen and (max-width: 768px) {
+  .logo .profile-avatar {
+    width: 30px;
+    height: 30px;
+  }
+
+}
+
+/* Center and style the profile image on the about page */
+.page-content img {
+  display: block;
+  margin: 2rem auto;
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+}
 
 /* Override the wrapper class to use the same width as the navbar */
 .wrapper {

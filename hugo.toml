@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'My Awesome Blog'
 theme = 'hugo-blog-awesome'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # Navigation menu
 [menu]
 [[menu.main]]
