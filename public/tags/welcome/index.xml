@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on My Awesome Blog</title>
+    <link>http://localhost:1313/tags/welcome/</link>
+    <description>Recent content in Welcome on My Awesome Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Sep 2025 20:55:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Blog</title>
+      <link>http://localhost:1313/posts/welcome-to-my-blog/</link>
+      <pubDate>Tue, 02 Sep 2025 20:55:40 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/welcome-to-my-blog/</guid>
+      
+      <description>&lt;h1 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to My Blog! 🎉&lt;/h1&gt;
+&lt;p&gt;Welcome to my new blog! I&amp;rsquo;m excited to share my thoughts, experiences, and insights with you through this platform.&lt;/p&gt;
+&lt;h2 id=&#34;what-you-can-expect&#34;&gt;What You Can Expect&lt;/h2&gt;
+&lt;p&gt;This blog will cover a variety of topics including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Technology&lt;/strong&gt;: Programming, web development, and tech trends&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personal Projects&lt;/strong&gt;: Updates on my coding adventures&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;: Step-by-step guides and how-tos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Thoughts&lt;/strong&gt;: Random musings and reflections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;about-this-site&#34;&gt;About This Site&lt;/h2&gt;
+&lt;p&gt;This blog is built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a fast and flexible static site generator, and styled with the beautiful &lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome&#34;&gt;Hugo Blog Awesome&lt;/a&gt; theme.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

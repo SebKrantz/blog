@@ -1,0 +1,63 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My Awesome Blog'
+theme = 'hugo-blog-awesome'
+
+# Navigation menu
+[menu]
+[[menu.main]]
+  pageRef = "/"
+  name = 'Home'
+  url = '/'
+  weight = 10
+[[menu.main]]
+  pageRef = "posts"
+  name = 'Posts'
+  url = '/posts/'
+  weight = 20
+[[menu.main]]
+  pageRef = "about"
+  name = 'About'
+  url = '/about/'
+  weight = 30
+
+[params]
+  # Theme configuration
+  description = "A personal blog built with Hugo and the Blog Awesome theme"
+  keywords = ["blog", "hugo", "awesome"]
+  
+  # Author configuration
+  [params.author]
+    name = "Your Name"
+    avatar = "/images/avatar.jpg"
+    bio = "A passionate developer and writer"
+    location = "Earth"
+    
+  # Social links
+  [params.social]
+    github = "https://github.com/yourusername"
+    twitter = "https://twitter.com/yourusername"
+    linkedin = "https://linkedin.com/in/yourusername"
+  
+  # Theme features
+  enableSearch = true
+  enableCodeCopy = true
+  enableMath = true
+  enableMermaid = true
+  
+  # Appearance
+  colorScheme = "auto"  # auto, light, dark
+  fontSize = "medium"   # small, medium, large
+  
+  # Home page
+  homePage = "posts"    # posts, about, contact
+  
+  # Navigation
+  showReadingTime = true
+  showWordCount = true
+  showPostNav = true
+  showBreadCrumbs = true
+  showCodeCopy = true
+  showShareButtons = true
+  showRelatedPosts = true
+  showTableOfContents = true
