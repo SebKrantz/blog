@@ -43,7 +43,7 @@
 }
 
 .page-content .header {
-  margin-top: 5em;
+  margin-top: 0; /* 5em; */
 }
 
 /* Custom CSS to match content width with navbar width (890px) */

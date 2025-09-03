@@ -5,7 +5,7 @@ publishDir = "docs"
 title = 'Blog of Sebastian Krantz'
 theme = 'hugo-blog-awesome'
 
-disqusShortname = "blog-of-sebastian-krantz"
+disqusShortname = "blog-of-sebastian-krantz" # <-- must match your Disqus site shortname
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "^README", "\\.R$", "\\.Rproj$", ".git"]
 
 [markup]
