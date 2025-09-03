@@ -24,7 +24,7 @@
     <link href="{{ $code_syntax_highlight_css.RelPermalink }}" rel="stylesheet">
 
     {{/* Custom CSS for content width alignment */}}
-    <link href="/css/custom.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 
     {{/* Favicons */}}
     <link rel="apple-touch-icon" sizes="180x180" href="{{ (resources.Get "icons/apple-touch-icon.png").RelPermalink }}">
