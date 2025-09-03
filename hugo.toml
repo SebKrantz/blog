@@ -1,3 +1,5 @@
+publishDir = "docs"
+
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Blog of Sebastian Krantz'
