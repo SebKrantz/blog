@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Sebastian Krantz Blog'
+title = 'Blog of Sebastian Krantz'
 theme = 'hugo-blog-awesome'
 
 [markup]
@@ -34,9 +34,10 @@ theme = 'hugo-blog-awesome'
     
   # Social links
   [params.social]
-    github = "https://github.com/yourusername"
-    twitter = "https://twitter.com/yourusername"
-    linkedin = "https://linkedin.com/in/yourusername"
+    github = "https://github.com/SebKrantz"
+    bluesky = "https://bsky.app/profile/sebkrantz.bsky.social"
+    mastodon = "https://fosstodon.org/@sebkrantz"
+    linkedin = "https://www.linkedin.com/in/sebastian-krantz-phd-91a08aa9/"
   
   # Theme features
   enableSearch = true

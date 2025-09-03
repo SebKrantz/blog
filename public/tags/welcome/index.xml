@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Sebastian Krantz Blog</title>
+    <title>Welcome on Blog of Sebastian Krantz</title>
     <link>http://localhost:1313/tags/welcome/</link>
-    <description>Recent content in Welcome on Sebastian Krantz Blog</description>
+    <description>Recent content in Welcome on Blog of Sebastian Krantz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Sep 2025 20:55:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
