@@ -3,42 +3,6 @@ draft = false
 description = 'Learn more about me and this blog'
 +++
 
-# About Me
+This is the personal blog of [Sebastian Krantz](https://sebastiankrantz.com), devoted to development, economics, career and travel experiences. 
 
-Hello! I'm Sebastian, a passionate developer and writer who loves sharing knowledge and experiences through this blog.
-
-<div style="text-align: center; margin: 2rem 0;">
-  <img src="/images/profile.png" alt="My Photo"/>
-</div>
-
-## What I Do
-
-I'm passionate about technology and enjoy exploring new programming languages, frameworks, and tools. When I'm not coding, you'll find me writing about my experiences, creating tutorials, or contributing to open source projects.
-
-## This Blog
-
-This blog serves as my personal space to:
-
-- Document my learning journey and discoveries
-- Share useful tutorials and guides
-- Discuss interesting tech topics and trends
-- Connect with the developer community
-
-## Technology Stack
-
-Some of the technologies I work with:
-
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
-- **Backend**: Node.js, Python, Go
-- **Tools**: Git, Docker, VS Code
-- **Platforms**: AWS, Netlify, Vercel
-
-## Get In Touch
-
-I'd love to hear from you! Feel free to reach out through:
-
-- [GitHub](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-
-Thanks for visiting my blog! 🚀
+For open-source software related content you may also be interested in [R, Econometrics, High Performance](https://sebkrantz.github.io/Rblog/).
