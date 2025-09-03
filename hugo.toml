@@ -1,9 +1,12 @@
+languageCode = 'en-us'
+baseURL = 'https://sebkrantz.github.io/blog'
 publishDir = "docs"
 
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
 title = 'Blog of Sebastian Krantz'
 theme = 'hugo-blog-awesome'
+
+disqusShortname = "blog-of-sebastian-krantz"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "^README", "\\.R$", "\\.Rproj$", ".git"]
 
 [markup]
   [markup.goldmark]
