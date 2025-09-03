@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My Awesome Blog'
+title = 'Sebastian Krantz Blog'
 theme = 'hugo-blog-awesome'
 
 [markup]
@@ -12,19 +12,13 @@ theme = 'hugo-blog-awesome'
 [menu]
 [[menu.main]]
   pageRef = "/"
-  name = 'Home'
   url = '/'
   weight = 10
-[[menu.main]]
-  pageRef = "posts"
-  name = 'Posts'
-  url = '/posts/'
-  weight = 20
 [[menu.main]]
   pageRef = "about"
   name = 'About'
   url = '/about/'
-  weight = 30
+  weight = 20
 
 [params]
   # Theme configuration
