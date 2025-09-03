@@ -37,7 +37,7 @@ A personal blog built with [Hugo](https://gohugo.io/) and the [Hugo Blog Awesome
    hugo server -D
    ```
 
-4. Open your browser and visit `http://localhost:1313`
+4. Open your browser and visit `https://sebkrantz.github.io`
 
 ### Creating Content
 

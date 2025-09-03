@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://sebkrantz.github.io/blog/</loc>
     <lastmod>2025-09-02T20:55:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
+    <loc>https://sebkrantz.github.io/blog/categories/</loc>
     <lastmod>2025-09-02T20:55:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/getting-started-with-hugo/</loc>
+    <loc>https://sebkrantz.github.io/blog/posts/getting-started-with-hugo/</loc>
     <lastmod>2025-09-02T20:55:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/hugo/</loc>
+    <loc>https://sebkrantz.github.io/blog/tags/hugo/</loc>
     <lastmod>2025-09-02T20:55:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
+    <loc>https://sebkrantz.github.io/blog/posts/</loc>
     <lastmod>2025-09-02T20:55:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/static-site-generator/</loc>
+    <loc>https://sebkrantz.github.io/blog/tags/static-site-generator/</loc>
     <lastmod>2025-09-02T20:55:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
+    <loc>https://sebkrantz.github.io/blog/tags/</loc>
     <lastmod>2025-09-02T20:55:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/tutorial/</loc>
+    <loc>https://sebkrantz.github.io/blog/categories/tutorial/</loc>
     <lastmod>2025-09-02T20:55:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/tutorial/</loc>
+    <loc>https://sebkrantz.github.io/blog/tags/tutorial/</loc>
     <lastmod>2025-09-02T20:55:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/blog/</loc>
+    <loc>https://sebkrantz.github.io/blog/tags/blog/</loc>
     <lastmod>2025-09-02T20:55:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/general/</loc>
+    <loc>https://sebkrantz.github.io/blog/categories/general/</loc>
     <lastmod>2025-09-02T20:55:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/welcome/</loc>
+    <loc>https://sebkrantz.github.io/blog/tags/welcome/</loc>
     <lastmod>2025-09-02T20:55:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/welcome-to-my-blog/</loc>
+    <loc>https://sebkrantz.github.io/blog/posts/welcome-to-my-blog/</loc>
     <lastmod>2025-09-02T20:55:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/about/</loc>
+    <loc>https://sebkrantz.github.io/blog/about/</loc>
   </url>
 </urlset>
