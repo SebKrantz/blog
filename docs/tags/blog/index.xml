@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Blog of Sebastian Krantz</title>
-    <link>https://example.org/tags/blog/</link>
+    <link>http://localhost:1313/tags/blog/</link>
     <description>Recent content in Blog on Blog of Sebastian Krantz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Sep 2025 20:55:40 +0200</lastBuildDate><atom:link href="https://example.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Sep 2025 20:55:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to My Blog</title>
-      <link>https://example.org/posts/welcome-to-my-blog/</link>
+      <link>http://localhost:1313/posts/welcome-to-my-blog/</link>
       <pubDate>Tue, 02 Sep 2025 20:55:40 +0200</pubDate>
       
-      <guid>https://example.org/posts/welcome-to-my-blog/</guid>
+      <guid>http://localhost:1313/posts/welcome-to-my-blog/</guid>
       
       <description>&lt;h1 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to My Blog! 🎉&lt;/h1&gt;
 &lt;p&gt;Welcome to my new blog! I&amp;rsquo;m excited to share my thoughts, experiences, and insights with you through this platform.&lt;/p&gt;
