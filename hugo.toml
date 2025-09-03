@@ -27,8 +27,8 @@ theme = 'hugo-blog-awesome'
   
   # Author configuration
   [params.author]
-    name = "Your Name"
-    avatar = "/images/avatar.jpg"
+    name = "Sebastian Krantz"
+    avatar = "/images/profile.png"
     bio = "A passionate developer and writer"
     location = "Earth"
     

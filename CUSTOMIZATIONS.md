@@ -60,6 +60,23 @@ Replaced the house icon with a rounded profile image that:
 - **CSS styling**: Rounded corners, hover effects, and responsive sizing
 - **Image path**: Uses `/images/profile.png` (same as the about page)
 
+## Navigation Simplification
+
+### Problem
+The default theme had separate "Home" and "Posts" menu items, creating redundancy since the home page can display posts directly.
+
+### Solution
+Simplified the navigation by:
+- **Removed "Posts" menu item** from the navbar
+- **Made "Home" link point to posts page** to preserve the year headers layout
+- **Created custom index page** that displays posts with year groupings
+- **Streamlined navigation** to just "Home" and "About"
+
+### Technical Details
+- **Custom index layout**: Created `layouts/index.html` that displays posts with year groupings
+- **Menu structure**: "Home" now points to `/posts/` URL, preserving the year headers layout
+- **User experience**: Cleaner navigation while maintaining the organized posts layout with year headers
+
 ## Benefits
 - ✅ Content width now matches navbar width
 - ✅ Better visual alignment and consistency
@@ -68,3 +85,6 @@ Replaced the house icon with a rounded profile image that:
 - ✅ No theme file modifications required
 - ✅ Personal branding with profile avatar in navbar
 - ✅ Professional appearance similar to GitHub profiles
+- ✅ Simplified navigation with streamlined menu
+- ✅ Direct access to blog posts from home page
+- ✅ Preserved year headers layout for organized post display

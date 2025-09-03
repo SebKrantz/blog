@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+{{- $defaultColor := .Site.Params.defaultColor | default "auto" -}}
+
+{{/* allow website developer to enforce default dark mode */}}
+{{- if eq $defaultColor "dark" -}}
+<html lang="{{ .Site.LanguageCode }}" class="dark">
+{{- else if eq $defaultColor "light" -}}
+<html lang="{{ .Site.LanguageCode }}" class="light">
+{{- else -}}
+<html lang="{{ .Site.LanguageCode }}">
+{{- end -}}
+
+{{- partial "head.html" . -}}
+
+<body data-theme="{{ $defaultColor }}" class="notransition">
+    {{- partial "scriptsBodyStart.html" . -}}
+    {{- partial "header.html" . -}}
+    <div class="wrapper list-page">
+        <!-- 
+        <header class="header">
+           <h1 class="header-title center">{{ .Title }}</h1> 
+        </header>
+        -->
+        <br>
+        <main class="page-content" aria-label="Content">
+            {{ range .Site.RegularPages.GroupByDate "2006" }}
+            {{ $year := .Key }}
+            
+            <h2 class="post-year">{{ $year }}</h2>
+
+            {{/* create a list of posts for each month, with month as heading */}}
+
+            {{ range .Pages }}
+
+            {{ partial "postCard" . }}
+
+            {{ end }} {{/* end range .Pages */}}
+
+            {{ end }} {{/* end range .Pages.GroupByDate "2006" */}}
+
+        </main>
+    </div>
+    {{- partial "footer.html" . -}}
+    {{- partial "scriptsBodyEnd.html" . -}}
+</body>
+
+</html>
