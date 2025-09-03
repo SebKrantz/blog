@@ -1,7 +1,7 @@
 <div class="navbar" role="navigation">
     <nav class="menu" aria-label="Main Navigation">
         <a href="{{ .Site.Home.Permalink }}" class="logo">
-            <img src="images/profile.png" alt="Sebastian" class="profile-avatar" />
+            <img src="{{ "images/profile.png" | relURL }}" alt="Sebastian" class="profile-avatar" />
         </a>
         <input type="checkbox" id="menu-trigger" class="menu-trigger" />
         <label for="menu-trigger">
