@@ -49,7 +49,7 @@ theme = 'hugo-blog-awesome'
   fontSize = "medium"   # small, medium, large
   
   # Home page
-  homePage = "posts"    # posts, about, contact
+  homePage = "/"    # posts, about, contact
   
   # Navigation
   showReadingTime = true
