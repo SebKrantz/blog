@@ -24,15 +24,6 @@
   transform: scale(1.05);
 }
 
-/* Mobile adjustments for profile avatar */
-@media screen and (max-width: 768px) {
-  .logo .profile-avatar {
-    width: 30px;
-    height: 30px;
-  }
-
-}
-
 /* Center and style the profile image on the about page */
 .page-content img {
   display: block;
@@ -69,6 +60,29 @@
 
 /* Mobile responsive adjustments */
 @media screen and (max-width: 768px) {
+
+  .logo {
+    padding-top: .1rem;
+  }
+
+  .logo .profile-avatar {
+    width: 30px;
+    height: 30px;
+  }
+
+  nav.menu {
+    height: 37px !important;
+    padding: 0 0 !important;
+    margin: 0 0 !important;
+  }
+  nav.menu .menu-icon {
+    margin: 0.35rem .35rem 0 0;
+  }
+
+  .navbar {
+    padding: 0 0 0 0 !important;
+  }
+
   .wrapper {
     max-width: calc(890px - 30px) !important;
     max-width: -webkit-calc(890px - 30px) !important;
