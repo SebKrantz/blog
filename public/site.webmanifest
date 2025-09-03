@@ -1,6 +1,6 @@
 {
-    "name": "My Awesome Blog",
-    "short_name": "My Awesome Blog",
+    "name": "Sebastian Krantz Blog",
+    "short_name": "Sebastian Krantz Blog",
     "start_url": "http://localhost:1313/",
     "theme_color": "#434648",
     "background_color": "#ffffff",

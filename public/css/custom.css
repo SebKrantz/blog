@@ -1,6 +1,3 @@
-/* Custom CSS to match content width with navbar width 
- (Navbar width is 890px, but I lowered it to 850px)
- */
 
 /* Profile avatar in navbar */
 .logo {
@@ -24,7 +21,7 @@
 
 .logo .profile-avatar:hover {
   opacity: 1;
-  border-color: #696969;
+  border-color: #707070;
   transform: scale(1.05);
 }
 
@@ -46,38 +43,41 @@
   height: auto;
 }
 
+/* Custom CSS to match content width with navbar width (890px) */
+
+
 /* Override the wrapper class to use the same width as the navbar */
 .wrapper {
-  max-width: calc(850px - (30px * 2)) !important;
-  max-width: -webkit-calc(850px - (30px * 2)) !important;
+  max-width: calc(890px - (30px * 2)) !important;
+  max-width: -webkit-calc(890px - (30px * 2)) !important;
 }
 
 /* Ensure the post wrapper also uses the same width */
 .wrapper.post {
-  max-width: calc(850px - (30px * 2)) !important;
-  max-width: -webkit-calc(850px - (30px * 2)) !important;
+  max-width: calc(890px - (30px * 2)) !important;
+  max-width: -webkit-calc(890px - (30px * 2)) !important;
 }
 
 /* Ensure the list page wrapper also uses the same width */
 .wrapper.list-page {
-  max-width: calc(850px - (30px * 2)) !important;
-  max-width: -webkit-calc(850px - (30px * 2)) !important;
+  max-width: calc(890px - (30px * 2)) !important;
+  max-width: -webkit-calc(890px - (30px * 2)) !important;
 }
 
 /* Mobile responsive adjustments */
 @media screen and (max-width: 768px) {
   .wrapper {
-    max-width: calc(850px - 30px) !important;
-    max-width: -webkit-calc(850px - 30px) !important;
+    max-width: calc(890px - 30px) !important;
+    max-width: -webkit-calc(890px - 30px) !important;
   }
   
   .wrapper.post {
-    max-width: calc(850px - 30px) !important;
-    max-width: -webkit-calc(850px - 30px) !important;
+    max-width: calc(890px - 30px) !important;
+    max-width: -webkit-calc(890px - 30px) !important;
   }
   
   .wrapper.list-page {
-    max-width: calc(850px - 30px) !important;
-    max-width: -webkit-calc(850px - 30px) !important;
+    max-width: calc(890px - 30px) !important;
+    max-width: -webkit-calc(890px - 30px) !important;
   }
 }

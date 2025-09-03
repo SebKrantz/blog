@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Awesome Blog</title>
+    <title>Sebastian Krantz Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My Awesome Blog</description>
+    <description>Recent content on Sebastian Krantz Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Sep 2025 20:55:46 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -50,33 +50,6 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;about-this-site&#34;&gt;About This Site&lt;/h2&gt;
 &lt;p&gt;This blog is built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a fast and flexible static site generator, and styled with the beautiful &lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome&#34;&gt;Hugo Blog Awesome&lt;/a&gt; theme.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
-&lt;p&gt;Hello! I&amp;rsquo;m Sebastian, a passionate developer and writer who loves sharing knowledge and experiences through this blog.&lt;/p&gt;
-&lt;div style=&#34;text-align: center; margin: 2rem 0;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/profile.png&#34; alt=&#34;My Photo&#34;/&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m passionate about technology and enjoy exploring new programming languages, frameworks, and tools. When I&amp;rsquo;m not coding, you&amp;rsquo;ll find me writing about my experiences, creating tutorials, or contributing to open source projects.&lt;/p&gt;
-&lt;h2 id=&#34;this-blog&#34;&gt;This Blog&lt;/h2&gt;
-&lt;p&gt;This blog serves as my personal space to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Document my learning journey and discoveries&lt;/li&gt;
-&lt;li&gt;Share useful tutorials and guides&lt;/li&gt;
-&lt;li&gt;Discuss interesting tech topics and trends&lt;/li&gt;
-&lt;li&gt;Connect with the developer community&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
-&lt;p&gt;Some of the technologies I work with:&lt;/p&gt;</description>
       
     </item>
     
