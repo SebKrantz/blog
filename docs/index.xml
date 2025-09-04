@@ -63,7 +63,9 @@
       <description>&lt;div style=&#34;margin-bottom: -4em;&#34;&gt;&lt;/div&gt;
 &lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;
 &lt;p&gt;This is the personal blog of &lt;a href=&#34;https://sebastiankrantz.com&#34;&gt;Sebastian Krantz&lt;/a&gt;, devoted to research, international development, economics, career reflections and travel experiences.&lt;/p&gt;
-&lt;p&gt;For open-source related content you may also be interested in my software blog: &lt;a href=&#34;https://sebkrantz.github.io/Rblog/&#34;&gt;R, Econometrics, High Performance&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;For open-source software related content you may also be interested in my other blog: &lt;a href=&#34;https://sebkrantz.github.io/Rblog/&#34;&gt;R, Econometrics, High Performance&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;about-this-site&#34;&gt;About This Site&lt;/h3&gt;
+&lt;p&gt;This blog is built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, a fast and flexible static site generator, using the &lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome&#34;&gt;Hugo Blog Awesome&lt;/a&gt; theme – with some customizations applied.&lt;/p&gt;</description>
       
     </item>
     
