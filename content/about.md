@@ -14,4 +14,4 @@ For open-source software related content you may also be interested in my other 
 
 ### About This Site
 
-This blog is built using [Hugo](https://gohugo.io/) using the [Hugo Blog Awesome](https://github.com/hugo-sid/hugo-blog-awesome) theme – with some customizations applied.
+This blog is built with [Hugo](https://gohugo.io/) using the [Hugo Blog Awesome](https://github.com/hugo-sid/hugo-blog-awesome) theme with some [simplifying modifications](https://github.com/SebKrantz/blog).
