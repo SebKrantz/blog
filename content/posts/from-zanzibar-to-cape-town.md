@@ -641,7 +641,7 @@ From Livingstone I went by taxi to Kasane, Botsuana – only 75km away. There I 
 
 Located in northern Botswana, Chobe National Park is renowned for its large elephant population—one of the highest concentrations in Africa. The park spans diverse ecosystems, including lush floodplains and dense woodlands, supporting a rich variety of wildlife such as lions, hippos, giraffes, and over 450 bird species. The Chobe river forms the northern boundary of the park and serves as a vital water source for wildlife, especially during the dry season. Boat safaris offer close-up views of elephants, crocodiles, and hippos along its banks. <br>
 
-Overall, the package was a fantastic deal, offering a premier wildlife experience at a very affordable rate. Personal highlights for me, apart from the sizeable Elephant herdes and cose up view of crocodiles sunbathing on the river banks, were a lion family with cubs, and, most notably, a live chase experience of a lioness silently approaching an antilope – with us in the middle of it. She even used safari cars as cover to get closer to the Antilope – as you can see in the footage. In the end, she was unfortunately not successful. Part of the reason was, as our guide excellently explained to us, that the antilope was alerted by the cars watching her, thinking "why am I so special today, there must be a preditor around". Thus, while the experience was amazing, it also showcases how tourism makes it harder, especially for the sought after predators, to survive naturally in these parks. 
+Overall, the package was a fantastic deal, offering a premier wildlife experience at a very affordable rate. Personal highlights for me, apart from the sizeable Elephant herdes and cose up view of crocodiles sunbathing on the river banks, were a lion family with cubs, and, most notably, a live chase experience of a lioness silently approaching an antilope – with us in the middle of it. She even used safari cars as cover to get closer to the Antilope – as you can see in the footage. 
 
 <div class="tiled-gallery">
     <a href="../from-zanzibar-to-cape-town/chobe/_MG_7471.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7471.jpg" alt="Chobe 1"></a>
@@ -687,13 +687,15 @@ Overall, the package was a fantastic deal, offering a premier wildlife experienc
     </video>
 </p>
 
-From Kasane then I took a night bus to Gaborone the same day at 8m (after the safari). It traversed the ~930km down south via Francistown in around 12 hours and thus arrived in the morning. Unfortunately, it had a flat tire around 30km from Gaborone, so most of us switched to a smaller bus to make it to the city faster. 
+In the end, the lioness was unfortunately (fortunately for the antelope) not successful. Part of the reason was, as our guide excellently explained to us, that the antilope was alerted by the cars watching her, thinking "why am I so special today, there must be a predator around". Thus, while the experience was amazing, it also showcases how tourism makes it harder, especially for the sought after predators, to survive naturally in these parks. <br>
+
+From Kasane then I took a night bus to Gaborone on the same day at 8pm (after the safari). It traversed the ~930km down south via Francistown in around 12 hours and thus arrived in the morning. Unfortunately, it had a flat tire around 30km from Gaborone, so most of us switched to a smaller bus to make it to the city faster. 
 
 ## Gaborone – History of Botswana
 
 Gaborone is the capital and largest city of Botswana, located in the southeastern part of the country near the border with South Africa. It became the capital in 1965, just before Botswana gained independence from British colonial rule in 1966. Botswana was formerly known as the British Protectorate of Bechuanaland, and upon independence, it transitioned peacefully into a democratic republic. The country has since been noted for its political stability, strong economic growth driven by diamond mining, and commitment to conservation and wildlife protection. Gaborone has grown rapidly and now serves as the administrative, economic, and cultural center of Botswana.
 
-That being said, it is still the smallest and most peaceful capital city of any African country I have visited to far (including Namibia/Windhoek). Below some impressions of a typical working day in Gaborone. 
+That being said, it is still the smallest and most peaceful capital city of any African country I have visited to far (including Namibia/Windhoek). Below are some impressions of a typical business day in Gaborone. 
 
 <div class="tiled-gallery">
     <a href="../from-zanzibar-to-cape-town/gaborone/IMG_2157.jpg"><img src="../from-zanzibar-to-cape-town/gaborone/IMG_2157.jpg" alt="gaborone 1"></a>
@@ -707,9 +709,9 @@ That being said, it is still the smallest and most peaceful capital city of any 
 <p align="center">Gaborone on a Normal Business Day</p>
 
 
-Long before colonial involvement, the land was inhabited by various Tswana-speaking groups and the San people. These communities developed complex societies with chieftaincy systems, trade networks, and internal diplomacy.
-
 #### The Three Dikgosi (Chiefs) and the Road to Independence
+
+Long before colonial involvement, the land was inhabited by various Tswana-speaking groups and the San people. These communities developed complex societies with chieftaincy systems, trade networks, and internal diplomacy.
 
 A pivotal moment in Botswana’s pre-independence history occurred in the late 19th century, when three influential chiefs — Khama III of the Bangwato, Sebele I of the Bakwena, and Bathoen I of the Bangwaketse — played a crucial role in safeguarding their territory from colonial exploitation. In 1895, these chiefs undertook a bold journey to Britain to petition Queen Victoria against the incorporation of Bechuanaland into the British South Africa Company, which was controlled by imperialist Cecil Rhodes. Their mission was successful: Bechuanaland remained a British Protectorate under direct Crown rule, rather than becoming a settler colony. This helped preserve the autonomy of the local leadership and prevented the widespread dispossession of land experienced in Rhodesia and South Africa.
 
