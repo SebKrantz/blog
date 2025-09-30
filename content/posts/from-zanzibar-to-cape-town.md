@@ -78,6 +78,8 @@ In the evenings, Stone Town Beach comes alive with locals and visitors alike. On
 
 A well known excursion from Stone Town is visiting Changuu (Prison Island) by boat – 5.6 km (3.5 mi) northwest of Stone Town. The island was uninhabited until the 1860s when the first Sultan of Zanzibar, Majid bin Said, gave it to two Arabs who used it as a prison for rebellious slaves prior to shipping them abroad or selling them at the slave market in Stone Town. More recently, the island has become a government-owned tourist resort and houses a collection of endangered Aldabra giant tortoises – a gift from the British governor of the Seychelles in 1919.
 
+Curiously, I shared the boat ride from Stone Town with a group of Indian Catholic Priests from all over the country (some coming from as far as Bukoba at Lake Victoria) who had gathered in Zanzibar for an annual meetup. 
+
 
 <div class="tiled-gallery">
     <a href="../from-zanzibar-to-cape-town/prison-island/_MG_6931.jpg">
@@ -113,7 +115,7 @@ A well known excursion from Stone Town is visiting Changuu (Prison Island) by bo
     </video>
 </p>
 
-Another well-known adventure is Safari Blue – a full-day boat and snorkeling trip exploring the crystal-clear waters, sandbanks, and small islands southwest of Stone Town. The excursion includes opportunities for dolphin spotting, swimming, and enjoying a seafood barbecue on a remote island. Taking the budget option, I ended up in a crammed boat with lots of Africans – and befriended a Tanzanian family which took me out for some drinks in Stone Town afterwards. I also met some old friends from Prison Island on a sandbank – the world is small over here.
+Another well-known adventure is Safari Blue – a full-day boat and snorkeling trip exploring the crystal-clear waters, sandbanks, and small islands southwest of Stone Town. The excursion includes opportunities for dolphin spotting, swimming, and enjoying a seafood barbecue on a remote island. Taking the budget option, I ended up in a crammed boat with lots of Africans – and befriended a Tanzanian family which took me out for some drinks in Stone Town afterwards. I also met my holy brothers from Prison Island again on a sandbank – the world is small over here.
 
 <div class="tiled-gallery">
     <a href="../from-zanzibar-to-cape-town/safari-blue/_MG_6976.jpg">
@@ -768,11 +770,203 @@ I would have liked to spend more Time in Botswana, e.g., to visit the **Okavango
 
 ## Johannesburg – Ghandi, Mandela, Soweto and Apartheid
 
+Founded in 1886 following the discovery of one of the world’s richest gold reefs on the Witwatersrand, Johannesburg quickly transformed from a dusty mining camp into a booming metropolis. The city’s rapid growth was fueled by an influx of prospectors, miners, and entrepreneurs seeking fortune, which led to the development of infrastructure, housing, and industry. Johannesburg soon became the economic heart of South Africa, largely due to its position at the center of the country’s gold mining industry.
+
+The city’s expansion also brought significant social and political challenges. Johannesburg grew with stark racial segregation, which was formalized and intensified with the institutionalization of apartheid from 1948 onwards. Black South Africans were forced into segregated townships on the outskirts of the city, such as Soweto, while the white minority controlled the city’s wealth and governance. Despite this, Johannesburg became a hotbed of resistance against apartheid, with Soweto emerging as a key center for political activism, most notably during the 1976 Soweto Uprising, which marked a turning point in the struggle against apartheid.
+
+After the end of apartheid in 1994, Johannesburg underwent significant transformation, becoming a symbol of the new democratic South Africa. The city has worked to address its legacy of inequality through urban renewal projects and efforts to integrate formerly segregated communities. Today, Johannesburg is a bustling, multicultural metropolis that serves as South Africa’s financial and commercial capital, known for its vibrant arts scene, cultural diversity, and economic innovation, while still grappling with social challenges stemming from its complex past.
+
+Nelson Mandela Square, located in the upscale suburb of Sandton in Johannesburg, is a vibrant public space and shopping destination named in honor of South Africa’s iconic leader, Nelson Mandela. The square is famous for its impressive 6-meter-tall bronze statue of Mandela, symbolizing his legacy of freedom, unity, and reconciliation. Surrounding the square is the Sandton City Mall, one of the largest and most luxurious shopping centers in Africa, offering a wide range of international brands, fine dining, and entertainment options. Together, the square and mall serve as a popular gathering spot for both locals and tourists, blending cultural significance with modern urban lifestyle in Johannesburg’s bustling financial district.
+
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2210.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2210.jpg" alt="johannesburg 1"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2211.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2211.jpg" alt="johannesburg 2"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2212.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2212.jpg" alt="johannesburg 2.5"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2213.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2213.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2215.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2215.jpg" alt="johannesburg 2"></a>
+</div>
+
+<p align="center">Nelson Mandela Square, Sandton City Mall, and Johannesburg Stock Exchange</p>
+
+From there I went to the Old Fort Prison, a historic site that once served as a notorious detention center during both colonial and apartheid eras. Originally built in the late 19th century, the complex housed common criminals, political prisoners, and freedom fighters, including prominent figures such as **Mahatma Gandhi** and **Nelson Mandela**. The prison became infamous for its harsh conditions and brutal treatment of inmates, especially under apartheid, when it was used to suppress anti-government activists. Today, it has been transformed into a museum and memorial that forms part of the **Constitution Hill precinct**, symbolizing South Africa’s journey from oppression to democracy. 
+
+**Mahatma Gandhi**'s time in South Africa, from 1893 to 1914, was a formative period that deeply shaped his philosophy of nonviolent resistance. Arriving as a young Indian lawyer, Gandhi initially came to represent an Indian merchant in a legal dispute, but he quickly became involved in the broader struggle against racial discrimination faced by the Indian community. Shocked by the blatant racism he encountered — including being thrown off a train for refusing to move from a “whites-only” compartment — Gandhi began to organize resistance against unjust laws, particularly those that restricted the rights of Indians to live, work, and travel freely.
+
+During his two decades in South Africa, Gandhi developed and practiced **Satyagraha**, a method of nonviolent protest grounded in moral courage and civil disobedience. He led campaigns against oppressive laws, such as the requirement for Indians to carry special passes, and endured arrests and imprisonment, including time at Johannesburg’s **Old Fort Prison**. Gandhi’s activism in South Africa laid the intellectual and strategic foundation for the later independence movement in India. His experiences there not only shaped his worldview but also had a lasting impact on South Africa’s own liberation movements, influencing future leaders, such as **Nelson Mandela** and **Martin Luther King Jr.**, in their pursuit of justice through peaceful means.
+
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2216.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2216.jpg" alt="johannesburg 1"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2218.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2218.jpg" alt="johannesburg 2"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2219.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2219.jpg" alt="johannesburg 2.5"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2220.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2220.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2223.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2223.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2233.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2233.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2225.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2225.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2228.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2228.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2231.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2231.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2235.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2235.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2236.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2236.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2237.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2237.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2238.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2238.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2239.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2239.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2240.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2240.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2241.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2241.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2217.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2217.jpg" alt="johannesburg 2"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2229.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2229.jpg" alt="johannesburg 2"></a>
+</div>
+
+<p align="center">Mahatma Gandhi and his Satyagraha Movement – Exhibition in Old Fort Prison, Johannesburg</p>
+
+From the Old Fort Prison, I went by taxi with a local tour guide on a city tour, passing by old trains, memorials, and remnants of the cities mining history. Over the past ~100 years, more than 1.7 billion metric tons of material have been removed from the earth around Johannesburg for gold mining, and there is a labyrinth of abandoned mine tunnels under Johannesburg totaling ~140 km, with some shafts up to 4 km deep, posing ongoing challenges. 
+
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2249.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2249.jpg" alt="johannesburg 1"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2250.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2250.jpg" alt="johannesburg 2"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2259.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2259.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2253.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2253.jpg" alt="johannesburg 2.5"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2256.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2256.jpg" alt="johannesburg 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2255.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2255.jpg" alt="johannesburg 4"></a>
+</div>
+
+<p align="center">Downtown Johannesburg</p>
+
+Soweto, short for *South Western Townships*, is a vibrant and historically significant 200 square km area located southwest of Johannesburg. Known as the birthplace of the struggle against apartheid, it was home to many key figures in the fight for freedom, including Nelson Mandela and Desmond Tutu. Soweto became a symbol of resistance during the 1976 Soweto Uprising, where students protested against the imposition of Afrikaans as the medium of instruction in schools, leading to violent clashes with the police. Today, Soweto is a dynamic, bustling community known for its rich culture, music, and strong sense of identity. 
+
+<!-- Its streets are lined with colorful homes, lively markets, and notable landmarks such as Vilakazi Street, the only street in the world to have been home to two Nobel Peace Prize laureates—Mandela and Tutu. Though it bears the scars of its turbulent past, Soweto has transformed into a symbol of resilience, and its ongoing revitalization continues to shape Johannesburg's diverse urban landscape. -->
+
+
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2264.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2264.jpg" alt="soweto 1"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2267.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2267.jpg" alt="soweto 2"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2270.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2270.jpg" alt="soweto 3"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2272.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2272.jpg" alt="soweto 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2273.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2273.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2274.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2274.jpg" alt="soweto 5"></a>
+</div>
+
+<p align="center">A Poorer Part of Soweto</p>
+
+From there, I went to the House of Nelson Mandela on Vilakazi Street - also in Soweto – the only street in the world to have been home to two Nobel Peace Prize laureates – Mandela and Tutu. While Mandela was imprisoned on Robben Island from 1964 to 1982, and later at Pollsmoor and Victor Verster prisons until his release in 1990, his wife Winnie and their children continued to inhabit the house, enduring frequent police harassment and surveillance throughout the apartheid era. This went so far as that the police drove by and randomly shot at the house – there are bullet holes in the outer walls – and Winnie would gather their two children behind a central wall whenever police approached. 
+
+<div class="tiled-gallery">
+    <!-- <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2278.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2278.jpg" alt="soweto 1"></a> -->
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2279.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2279.jpg" alt="soweto 2"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2280.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2280.jpg" alt="soweto 3"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2286.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2286.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2283.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2283.jpg" alt="soweto 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2292.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2292.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2285.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2285.jpg" alt="soweto 3"></a>
+</div>
+
+<p align="center">Mandela House on Vilakazi Street, Soweto</p>
+
+In lieu with the Mandela House, I also visited the Hector Pieterson Museum comemorating the Soweto Uprising of 1976 – a pivotal student-led protest against apartheid's education policies, where thousands of young people, particularly in Soweto, demanded the right to learn in their own language and resist the imposition of Afrikaans. The Hector Pieterson Museum in Soweto commemorates the life of Hector Pieterson, a 12-year-old boy who shot by the police and became an iconic symbol of the brutality faced by protesters during the uprising. The uprising sparked widespread protests across the country, and though the apartheid government attempted to suppress the protests through violence, it unveiled the injustices of apartheid, leading to greater international pressure on the regime.
+
+Hundreds of people were killed in the uprising – it is widely believed more than 170. Thousands were injured, and many more were arrested. The museum features a walkable memorial of bricks for students killed in the uprising. 
+
+Last but not least, the Apartheid Museum is a must-see in Johannesburg. I spent three hours there and learned a lot. 
+
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2296.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2296.jpg" alt="soweto 2"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2295.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2295.jpg" alt="soweto 3"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2294.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2294.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2299.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2299.jpg" alt="soweto 4"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2307.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2307.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/johannesburg/IMG_2309.jpg"><img src="../from-zanzibar-to-cape-town/johannesburg/IMG_2309.jpg" alt="soweto 3"></a>
+</div>
+
+<p align="center">Hector Pieterson Museum and Apartheid Museum, Johannesburg</p>
+
+From Johannesburg I then took a bus to Kimberley – a small but very special city around 400km southwest of Johannesburg. I had wanted to take the train again, but the only public train, the [Shosholoza Meyl](https://en.wikipedia.org/wiki/Shosholoza_Meyl), is apparently no longer operational (I was not able to make contact/get tickets). I was told, it is because the overhead cables made of copper had been dismantled/stolen in some places, particularly during COVID-related shutdowns. It is the first reference I got to an African infrastructure not merely being ill-maintained, but destroyed by citizens to make a living.
+
+So I again went by bus, which took around 8 hours for the ~500km. I was, once again, the only white person on the bus, but in this country there was a strange feeling about it. It also occurred, that while we were stopping at a station, I, being seated relatively in the front of the bus, left my power bank on my seat and found it missing upon my return. I spoke to the driver who told me that somebody from inside must have taken it in passing, as no outsider had entered. I thought that was a very strange situation to remain silent about, so I addressed the bus once everyone was seated again, telling them that I had come as a tourist from Germany, and my power bank was dear to me. I collected some pittyful looks, and sat down again. Very shortly afterwards, the conductor, seated in the first row opposite the driver got up, also adressing the bus with some mockery of my speach, and gave me back my powerbank. I suppose, he had gone through the bus and collected it after everyone was out, but ostensibly he had seen no need to return it to me right away or tell the driver. Overall, it was a weird situation, and I was happy to get off that bus in Kimberley. 
+
+
 ## Kimberley – Diamond Rush and Cecil Rhodes
+
+Kimberley, located in the Northern Cape province of South Africa, is best known as the site of one of the world’s most famous diamond rushes. In the late 19th century, the discovery of diamonds near Colesberg Kopje transformed the area into a booming mining town almost overnight. The Big Hole, an enormous hand-dug excavation, remains the city’s most iconic landmark and a symbol of the diamond era. The British businessmen Cecil Rhodes and Barney Barnato made their fortunes in Kimberley, and Rhodes also established the De Beers diamond company in the early days of the mining town. Kimberley quickly became a hub of wealth, industry, and innovation, even being the first city in the Southern Hemisphere to install electric streetlights in 1882.
+
+In 1866, Erasmus Jacobs found a small brilliant pebble on the banks of the Orange River, on the farm De Kalk leased from local Griquas, near Hopetown, which was his father's farm. He showed the pebble to his father, who then sold it. The pebble was purchased from Jacobs' father by Schalk van Niekerk, who later sold it on again. It proved to be a 21.25-carat (4.3 g) diamond, and became known as the Eureka. Three years later, in 1869, an 83.5-carat (16.7 g) diamond, which became known as the Star of South Africa, was found nearby. This diamond was sold by van Niekerk for £11,200, and later resold in the London market for £25,000.
+
+Henry Richard Giddy recounted how Esau Damoense (or Damon), the cook for prospector Fleetwood Rawstorne's "Red Cap Party", found diamonds in 1871 on Colesberg Kopje after he was sent there to dig as punishment. Rawstorne took the news to the nearby diggings of the De Beer brothers, his arrival there sparking off the famous "New Rush", which, as the historian Brian Roberts puts it, was practically a stampede. Within a month, 900 claims were cut into the hillock, which were worked frenetically by two to three thousand men. <!-- As the land was lowered, so the hillock became a mine, in time the world-renowned Kimberley Mine. -->
+
+As miners arrived in their thousands the hill disappeared and subsequently became known as the Big Hole or, more formally, Kimberley Mine. From mid-July 1871 to 1914, 50,000 miners dug the hole with picks and shovels, yielding 2,722 kg of diamonds. The Big Hole has a surface of 17 hectares (42 acres) and is 463 metres wide. It was excavated to a depth of 240 m but then partially infilled with debris reducing its depth to about 215 m. Since then, it has accumulated water to a depth of 40 m, leaving 175 m visible. Beneath the surface, the Kimberley Mine underneath the Big Hole was mined to a depth of 1097 m. A popular local myth claims that it is the largest hand-dug hole on the world, but Jagersfontein Mine appears to hold that record.
+
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2338.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2338.jpg" alt="soweto 2"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2344.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2344.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2377.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2377.jpg" alt="soweto 3"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2348.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2348.jpg" alt="soweto 4"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2359.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2359.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2329.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2329.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2369.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2369.jpg" alt="soweto 3"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2372.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2372.jpg" alt="soweto 3"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2322.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2322.jpg" alt="soweto 3"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2326.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2326.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2328.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2328.jpg" alt="soweto 4"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2330.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2330.jpg" alt="soweto 3"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2331.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2331.jpg" alt="soweto 2"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2337.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2337.jpg" alt="soweto 2"></a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/IMG_2380.jpg"><img src="../from-zanzibar-to-cape-town/kimberley/IMG_2380.jpg" alt="soweto 2"></a>
+</div>
+
+<p align="center">Big Hole / Kimberley Mine, Kimberley</p>
+
+<p align="center" style="margin: 0; padding: 0;">
+    <video controls width="98%">
+        <source src="../from-zanzibar-to-cape-town/kimberley/IMG_2340.MOV" type="video/mp4">
+    </video>
+</p>
+
+It was also surprising for me to learn, that the Big Hole in Kimberley is basically an excavated volcano. Kimberlite pipes, such as the one in Kimberley, are deep, cylindrical geological formations formed by volcanic eruptions that bring material from deep within the Earth’s mantle to the surface. These eruptions, which occurred millions of years ago, forcefully expel kimberlite—a type of volcanic rock—along with various minerals, including diamonds. Diamonds crystallize under intense heat and pressure, typically around 140 to 190 kilometers below Earth's surface, and are then transported to the surface through these kimberlite eruptions.
+
+
+Cecil Rhodes, one of the most influential figures in British colonial history, made his fortune in Kimberley, South Africa, through his involvement in the diamond mining industry. Arriving in the city in the 1870s, he quickly became a key player in the burgeoning diamond trade. Rhodes initially invested in diamond mining, working his way up through shrewd business dealings and acquisitions. His most notable move was the formation of the De Beers Mining Company in 1888, which, over time, came to control the vast majority of the world’s diamond production. Rhodes’s monopoly on the diamond industry made him extraordinarily wealthy, and he used this wealth to pursue an aggressive expansionist agenda in southern Africa, eventually founding the colony of Rhodesia (modern-day Zimbabwe and Zambia) in his name. His approach to business was both ruthless and visionary, with his relentless drive for control of the diamond trade leading to vast consolidation of mining operations and the shaping of the global diamond market.
+
+Rhodes’s wealth and influence allowed him to become a prominent political figure in both Britain and South Africa. He served as the Prime Minister of the Cape Colony from 1890 to 1896 and was a fervent advocate for British imperialism. His vision of a British-controlled African empire stretched from the Cape to Cairo, leading him to push for the colonization and economic exploitation of vast areas of Africa. 
+
+<div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; margin-bottom: -30px;">
+    <a href="../from-zanzibar-to-cape-town/kimberley/Cecil_John_Rhodes.jpg">
+        <img src="../from-zanzibar-to-cape-town/kimberley/Cecil_John_Rhodes.jpg" alt="Cecil John Rhodes" style="max-height: 400px; height: 100%; width: auto;">
+    </a>
+    <a href="../from-zanzibar-to-cape-town/kimberley/Punch_Rhodes_Colossus.png">
+        <img src="../from-zanzibar-to-cape-town/kimberley/Punch_Rhodes_Colossus.png" alt="The Rhodes Colossus" style="max-height: 400px; height: 100%; width: auto;">
+    </a>
+</div>
+
+<p align="center">Cecil John Rhodes and Edward Sambourne's <a href="https://en.wikipedia.org/wiki/The_Rhodes_Colossus">Rhodes Colossus</a> (Punch, 1892)</p>
+
+Rhodes’s legacy is complex and controversial; while he was a major proponent of Western development and infrastructure in southern Africa, his actions were also deeply tied to the subjugation and dispossession of indigenous African peoples. His legacy, especially in light of his beliefs in white supremacy and his role in the exploitation of Africa, remains a subject of intense debate and reflection in South Africa and beyond.
+
+From Kimberley, after seeing the Big Hole which can be done in one day, I wanted to take the bus to Cape Town the next day. However, it turns out all busses start in Johannesburg, pass through Kimberley in the afternoon, and reach Cape Town in the late afternoon/evening of the following day. The alternative, as Kimberley has a small airport, is to fly to Cape Town, boarding a plane at 9am which reaches Cape Town at 10am. I was a bit tired of my trip and the bus experience to Kimberley, thus this was a very welcome option to save two days on the road for lovely Western Cape. The flight itself was also a scenic transition from the rather dry northern cape region to the lush green western cape – with different methods of farming in the two regions clearly distinguishable from above. 
+
 
 ## Western Cape – Sublime Landscapes, Wine Farms, Excursions and Hikes
 
+The Western Cape, has a rich and complex history shaped by indigenous cultures, colonialism, and political change. Long before European arrival, it was inhabited by the Khoikhoi and San peoples, who lived off the land and sea. In 1652, the Dutch established a refreshment station at what is now Cape Town under Jan van Riebeeck, marking the beginning of European colonization. The region later became a crucial part of the Dutch East India Company’s trade route. In 1806, the British took control of the Cape Colony, leading to significant changes in land ownership and social structures, especially with the introduction of slavery, which persisted until 1834. Over the years, the Western Cape played a key role in the development of South Africa, from the struggles during apartheid to the region’s role in the country’s eventual transition to democracy in 1994. The diverse cultural influences in the region reflect this turbulent history, contributing to the Western Cape’s vibrant social fabric today.
+
+Stellenbosch, one of South Africa's oldest towns, is nestled in the heart of the Western Cape's winelands and holds a prominent place in the country's colonial and agricultural history. Founded in 1679 by the Dutch Governor Simon van der Stel, the town quickly became a hub for farming and settlement due to its fertile soil and mild climate. In the late 17th century, French Huguenots fleeing religious persecution arrived in the Cape and brought with them advanced viticulture knowledge, which greatly influenced the development of South Africa’s wine industry. Many of these settlers established farms in and around Stellenbosch, laying the foundations for what would become one of the most renowned wine-producing regions in the Southern Hemisphere. Today, Stellenbosch is celebrated not only for its world-class wines but also for its preserved Cape Dutch architecture, prestigious university, and deep cultural heritage that reflects centuries of European and African interaction.
+
+Lanzerac Wine Estate, located just outside the historic town of Stellenbosch, is one of South Africa’s most iconic and storied wine farms, with a history dating back to 1692. Originally known as Schoongezicht, the estate was one of the earliest established farms in the area, and it became known as Lanzerac in the early 20th century. The estate has played a significant role in the development of South African wine, most notably as the birthplace of the first bottled Pinotage — a uniquely South African varietal — in 1961. The Lanzerac Hotel, set within the estate, combines old-world charm with modern luxury, offering guests a chance to experience the rich heritage of the Cape Winelands amid sprawling vineyards, centuries-old oak trees, and elegant Cape Dutch architecture. Today, Lanzerac remains a landmark of Stellenbosch’s wine culture, blending historical significance with contemporary sophistication.
+
+Cape Town’s Victoria and Alfred (V&A) Waterfront is a vibrant cultural and commercial hub that seamlessly blends history with modern development, set against the stunning backdrop of Table Mountain. Named after Queen Victoria and her son Prince Alfred, who began construction of the original breakwater in 1860, the waterfront played a key role in the city's maritime history as a bustling port. Over time, the area was transformed from a working harbor into one of South Africa’s most visited attractions, preserving historic buildings and docklands while introducing luxury hotels, world-class shopping, fine dining, and entertainment. The V&A Waterfront also houses cultural landmarks such as the Zeitz Museum of Contemporary Art Africa (MOCAA) and the Two Oceans Aquarium, offering both locals and tourists a dynamic space that celebrates Cape Town’s heritage, creativity, and coastal charm.
+
+Hermanus, located about 120 kilometers southeast of Cape Town, is a charming coastal town renowned for its breathtaking scenery and world-class whale watching. Nestled between the cliffs of the Overberg region and the turquoise waters of Walker Bay, Hermanus has long been a popular retreat for nature lovers and adventure seekers. The town’s claim to fame is its position as one of the best land-based whale watching destinations in the world, with Southern Right Whales migrating to its shores between June and December each year. Besides its natural beauty, Hermanus boasts a vibrant arts scene, with galleries, craft markets, and a variety of outdoor activities like hiking and fishing. The town’s old-world charm is reflected in its quaint streets lined with Cape Dutch architecture, and it also offers excellent vineyards and wine estates in the surrounding area, making it a perfect blend of relaxation, culture, and adventure.
+
+Table Mountain, an iconic landmark of Cape Town, is one of the most recognizable natural wonders in the world. Standing 1,085 meters above sea level, its flat-topped summit offers sweeping panoramic views of the city, the Atlantic Ocean, and the surrounding Cape Peninsula. Geologically, Table Mountain is over 600 million years old, making it one of the oldest mountains on Earth. Its unique profile, coupled with its rich biodiversity, has earned it a spot as one of the New 7 Wonders of Nature. The mountain is home to thousands of plant species, including the rare fynbos, as well as a variety of animal life. Visitors can take the scenic cable car ride to the top, or for the more adventurous, hike one of the several routes leading up the mountain. Whether shrouded in mist or bathed in sunlight, Table Mountain remains a symbol of Cape Town’s natural beauty and a must-see destination for travelers.
+
+The West Coast National Park, situated to the northwest of Cape Town, is a stunning natural reserve that showcases the raw beauty of South Africa’s coastline. Stretching from the Atlantic Ocean to the inland wetlands of the Langebaan Lagoon, the park is renowned for its diverse ecosystems, including sandy beaches, salt marshes, and dense coastal fynbos. It is also a haven for birdwatchers, with over 250 species recorded, including migratory birds that flock to the park during the summer months. The park’s most famous attraction is its annual wildflower display, which paints the landscape in vibrant hues of orange, purple, and yellow as spring arrives. Visitors can explore the park’s hiking trails, enjoy picnics by the lagoon, or take in the breathtaking views from the top of the Bokmakierie Lookout. The West Coast National Park offers a serene escape from the bustle of Cape Town, providing a perfect blend of natural beauty, wildlife, and outdoor recreation.
+
+For more impressions of the stunning Western Cape region, I refer the avid reader to my [Flickr Album](https://www.flickr.com/photos/sebastiankrantz/albums/72177720314575573) with high-quality panoramic shots taken in Spring 2023 during my 3-month research visit at Stellenbosch University. 
+
 ## The End
+
+After a relaxing and eventful two weeks in Western Cape together with my lovely host family, left Cape Town on the 31st for September and arrived in Hamburg, Germany on the 1st of October. I had spent six weeks in Southern Africa, traveling more than 6000km from Zanzibar to Cape Town by public transport. It was an experience I will never forget, and a great feat I will likely never have the time to repeat in similar extent.  
+
+This post is therefore a tribute to myself but also to many who have expressed interest in this trip. I hope it inspired you to similar adventures and ignited a spark of fascination for this continent. 
+
+
+In the last week of September, while being in Stellenbosch, I also received a job offer, thus I knew my life would soon change. A month later, I am completing this post from Washington DC – change has indeed materialized quickly.
 
 <br>
 
@@ -780,4 +974,4 @@ I would have liked to spend more Time in Botswana, e.g., to visit the **Okavango
 
 <br>
 
-***Notes:** High-quality images were captured using a Canon 600D with 18-55mm + 70-200mm lenses. All footage was captured with an IPhone 13 mini. DSLR imagery was edited in Adobe Lightroom, videos were produced using IMovie.*
+***Notes:** High-quality images (e.g., of animals) were captured using a Canon 600D with 18-55mm + 70-200mm lenses – shot in RAW and subsequently edited in Adobe Lightroom Classic, which was also used for panorama stiches. Other pictures and all footage was captured uing an IPhone 13 mini. Videos were produced using IMovie.*
