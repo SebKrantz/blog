@@ -711,7 +711,7 @@ That being said, it is still the smallest and most peaceful capital city of any 
 <p align="center">Gaborone on a Normal Business Day</p>
 
 
-#### The Three Dikgosi (Chiefs) and the Road to Independence
+<!-- #### The Three Dikgosi (Chiefs) and the Road to Independence -->
 
 Long before colonial involvement, the land was inhabited by various Tswana-speaking groups and the San people. These communities developed complex societies with chieftaincy systems, trade networks, and internal diplomacy.
 
@@ -723,7 +723,7 @@ This extraordinary diplomatic act by the three chiefs is commemorated in Gaboron
     <a href="../from-zanzibar-to-cape-town/gaborone/IMG_2159.jpg">
         <img src="../from-zanzibar-to-cape-town/gaborone/IMG_2159.jpg" alt="Three Dikgosi Monument, Gaborone" style="max-width: 700px; width: 100%; margin-bottom: 5px; margin-top: 5px;">
     </a>
-    Three Dikgosi Monument, Gaborone
+    Three Dikgosi (Chiefs) Monument, Gaborone
 </p>
 
 <!-- The site has become a major cultural and tourist landmark, reminding citizens and visitors alike of the enduring legacy of Botswana’s traditional leaders in shaping a modern, independent nation. The story of the three chiefs not only underscores the importance of indigenous agency in colonial history but also highlights the values of peace, dialogue, and strategic thinking that continue to define Botswana's political culture today. -->
@@ -921,7 +921,7 @@ As miners arrived in their thousands the hill disappeared and subsequently becam
 It was also surprising for me to learn, that the Big Hole in Kimberley is basically an excavated volcano. Kimberlite pipes, such as the one in Kimberley, are deep, cylindrical geological formations formed by volcanic eruptions that bring material from deep within the Earth’s mantle to the surface. These eruptions, which occurred millions of years ago, forcefully expel kimberlite—a type of volcanic rock—along with various minerals, including diamonds. Diamonds crystallize under intense heat and pressure, typically around 140 to 190 kilometers below Earth's surface, and are then transported to the surface through these kimberlite eruptions.
 
 
-Cecil Rhodes, one of the most influential figures in British colonial history, made his fortune in Kimberley, South Africa, through his involvement in the diamond mining industry. Arriving in the city in the 1870s, he quickly became a key player in the burgeoning diamond trade. Rhodes initially invested in diamond mining, working his way up through shrewd business dealings and acquisitions. His most notable move was the formation of the De Beers Mining Company in 1888, which, over time, came to control the vast majority of the world’s diamond production. Rhodes’s monopoly on the diamond industry made him extraordinarily wealthy, and he used this wealth to pursue an aggressive expansionist agenda in southern Africa, eventually founding the colony of Rhodesia (modern-day Zimbabwe and Zambia) in his name. His approach to business was both ruthless and visionary, with his relentless drive for control of the diamond trade leading to vast consolidation of mining operations and the shaping of the global diamond market.
+Cecil Rhodes, one of the most influential figures in British colonial history, made his fortune in Kimberley. Arriving in the city in the 1870s, he quickly became a key player in the burgeoning diamond trade. Rhodes initially invested in diamond mining, working his way up through shrewd business dealings and acquisitions. His most notable move was the formation of the De Beers Mining Company in 1888, which, over time, came to control the vast majority of the world’s diamond production. Rhodes’s monopoly on the diamond industry made him extraordinarily wealthy, and he used this wealth to pursue an aggressive expansionist agenda in southern Africa, eventually founding the colony of Rhodesia (modern-day Zimbabwe and Zambia) in his name. His approach to business was both ruthless and visionary, with his relentless drive for control of the diamond trade leading to vast consolidation of mining operations and the shaping of the global diamond market.
 
 Rhodes’s wealth and influence allowed him to become a prominent political figure in both Britain and South Africa. He served as the Prime Minister of the Cape Colony from 1890 to 1896 and was a fervent advocate for British imperialism. His vision of a British-controlled African empire stretched from the Cape to Cairo, leading him to push for the colonization and economic exploitation of vast areas of Africa. 
 
@@ -943,28 +943,144 @@ From Kimberley, after seeing the Big Hole which can be done in one day, I wanted
 
 ## Western Cape – Sublime Landscapes, Wine Farms, Excursions and Hikes
 
-The Western Cape, has a rich and complex history shaped by indigenous cultures, colonialism, and political change. Long before European arrival, it was inhabited by the Khoikhoi and San peoples, who lived off the land and sea. In 1652, the Dutch established a refreshment station at what is now Cape Town under Jan van Riebeeck, marking the beginning of European colonization. The region later became a crucial part of the Dutch East India Company’s trade route. In 1806, the British took control of the Cape Colony, leading to significant changes in land ownership and social structures, especially with the introduction of slavery, which persisted until 1834. Over the years, the Western Cape played a key role in the development of South Africa, from the struggles during apartheid to the region’s role in the country’s eventual transition to democracy in 1994. The diverse cultural influences in the region reflect this turbulent history, contributing to the Western Cape’s vibrant social fabric today.
+The Western Cape has a rich and complex history shaped by indigenous cultures, colonialism, and political change. Long before European arrival, it was inhabited by the Khoikhoi and San peoples, who lived off the land and sea. In 1652, the Dutch established a refreshment station at what is now Cape Town under Jan van Riebeeck, marking the beginning of European colonization. The region later became a crucial part of the Dutch East India Company’s trade route. In 1806, the British took control of the Cape Colony, leading to significant changes in land ownership and social structures, especially with the introduction of slavery, which persisted until 1834. Over the years, the Western Cape played a key role in the development of South Africa, from the struggles during apartheid to the region’s role in the country’s eventual transition to democracy in 1994. <!-- The diverse cultural influences in the region reflect this turbulent history, contributing to the Western Cape’s vibrant social fabric today. -->
+
+From the airport, I went straight to Stellenbosch where my (former) host family during my research visit in spring 2023 had invited me to stay with them again during my time in Western Cape. The elderly couple, lovingly called papa Juri and mama Meggie, have been accomodating students at various levels for many years, and, apart from me, were currently hosting Khaled, a postdoc in statistics from Iran, and Rajiv, a master student in theology from Sri Lanka. Thus, I was in good company right away, and, as during my stay in early 2023, we did excursions together like a real family. But I also took this time to just relax and catch-up with a few people at the university. 
+
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/QQME6957.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/QQME6957.jpg" alt="soweto 2"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/MAOR0787.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/MAOR0787.jpg" alt="soweto 5"></a>
+</div>
+
+<p align="center">My Host Family in Stellenbosch</p>
 
 Stellenbosch, one of South Africa's oldest towns, is nestled in the heart of the Western Cape's winelands and holds a prominent place in the country's colonial and agricultural history. Founded in 1679 by the Dutch Governor Simon van der Stel, the town quickly became a hub for farming and settlement due to its fertile soil and mild climate. In the late 17th century, French Huguenots fleeing religious persecution arrived in the Cape and brought with them advanced viticulture knowledge, which greatly influenced the development of South Africa’s wine industry. Many of these settlers established farms in and around Stellenbosch, laying the foundations for what would become one of the most renowned wine-producing regions in the Southern Hemisphere. Today, Stellenbosch is celebrated not only for its world-class wines but also for its preserved Cape Dutch architecture, prestigious university, and deep cultural heritage that reflects centuries of European and African interaction.
 
-Lanzerac Wine Estate, located just outside the historic town of Stellenbosch, is one of South Africa’s most iconic and storied wine farms, with a history dating back to 1692. Originally known as Schoongezicht, the estate was one of the earliest established farms in the area, and it became known as Lanzerac in the early 20th century. The estate has played a significant role in the development of South African wine, most notably as the birthplace of the first bottled Pinotage — a uniquely South African varietal — in 1961. The Lanzerac Hotel, set within the estate, combines old-world charm with modern luxury, offering guests a chance to experience the rich heritage of the Cape Winelands amid sprawling vineyards, centuries-old oak trees, and elegant Cape Dutch architecture. Today, Lanzerac remains a landmark of Stellenbosch’s wine culture, blending historical significance with contemporary sophistication.
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2397.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2397.jpg" alt="soweto 2"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7805.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7805.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7806.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7806.jpg" alt="soweto 5"></a>
+   <!-- <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7810.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7810.jpg" alt="soweto 5"></a> -->
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7818.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7818.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7832-Pano.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7832-Pano.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2470.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2470.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2511.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2511.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2590.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2590.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2588.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2588.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2718.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2718.jpg" alt="soweto 5"></a>
+</div>
 
-Cape Town’s Victoria and Alfred (V&A) Waterfront is a vibrant cultural and commercial hub that seamlessly blends history with modern development, set against the stunning backdrop of Table Mountain. Named after Queen Victoria and her son Prince Alfred, who began construction of the original breakwater in 1860, the waterfront played a key role in the city's maritime history as a bustling port. Over time, the area was transformed from a working harbor into one of South Africa’s most visited attractions, preserving historic buildings and docklands while introducing luxury hotels, world-class shopping, fine dining, and entertainment. The V&A Waterfront also houses cultural landmarks such as the Zeitz Museum of Contemporary Art Africa (MOCAA) and the Two Oceans Aquarium, offering both locals and tourists a dynamic space that celebrates Cape Town’s heritage, creativity, and coastal charm.
+<p align="center">Stellenbosch and Surrounding Area</p>
 
-Hermanus, located about 120 kilometers southeast of Cape Town, is a charming coastal town renowned for its breathtaking scenery and world-class whale watching. Nestled between the cliffs of the Overberg region and the turquoise waters of Walker Bay, Hermanus has long been a popular retreat for nature lovers and adventure seekers. The town’s claim to fame is its position as one of the best land-based whale watching destinations in the world, with Southern Right Whales migrating to its shores between June and December each year. Besides its natural beauty, Hermanus boasts a vibrant arts scene, with galleries, craft markets, and a variety of outdoor activities like hiking and fishing. The town’s old-world charm is reflected in its quaint streets lined with Cape Dutch architecture, and it also offers excellent vineyards and wine estates in the surrounding area, making it a perfect blend of relaxation, culture, and adventure.
+One of the go-to places for a relaxing sunday afternoon in Stellenbosch is Lanzerac Wine Estate. Located just outside the historic town it is one of South Africa’s most iconic and storied wine farms, with a history dating back to 1692. The estate has played a significant role in the development of South African wine, most notably as the birthplace of the first bottled Pinotage — a uniquely South African varietal — in 1961. While the state is beautiful, the slave bell in the third picture is a solemn reminder of the darker parts of Western Cape history. <!-- Today, Lanzerac remains a landmark of Stellenbosch’s wine culture, blending historical significance with contemporary sophistication. -->
 
-Table Mountain, an iconic landmark of Cape Town, is one of the most recognizable natural wonders in the world. Standing 1,085 meters above sea level, its flat-topped summit offers sweeping panoramic views of the city, the Atlantic Ocean, and the surrounding Cape Peninsula. Geologically, Table Mountain is over 600 million years old, making it one of the oldest mountains on Earth. Its unique profile, coupled with its rich biodiversity, has earned it a spot as one of the New 7 Wonders of Nature. The mountain is home to thousands of plant species, including the rare fynbos, as well as a variety of animal life. Visitors can take the scenic cable car ride to the top, or for the more adventurous, hike one of the several routes leading up the mountain. Whether shrouded in mist or bathed in sunlight, Table Mountain remains a symbol of Cape Town’s natural beauty and a must-see destination for travelers.
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7815.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7815.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7765.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7765.jpg" alt="soweto 2"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7769.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7769.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7772.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7772.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7773.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7773.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2396.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2396.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7780.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7780.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7792.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7792.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7778.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7778.jpg" alt="soweto 5"></a>
+</div>
 
-The West Coast National Park, situated to the northwest of Cape Town, is a stunning natural reserve that showcases the raw beauty of South Africa’s coastline. Stretching from the Atlantic Ocean to the inland wetlands of the Langebaan Lagoon, the park is renowned for its diverse ecosystems, including sandy beaches, salt marshes, and dense coastal fynbos. It is also a haven for birdwatchers, with over 250 species recorded, including migratory birds that flock to the park during the summer months. The park’s most famous attraction is its annual wildflower display, which paints the landscape in vibrant hues of orange, purple, and yellow as spring arrives. Visitors can explore the park’s hiking trails, enjoy picnics by the lagoon, or take in the breathtaking views from the top of the Bokmakierie Lookout. The West Coast National Park offers a serene escape from the bustle of Cape Town, providing a perfect blend of natural beauty, wildlife, and outdoor recreation.
+<p align="center">Lanzerac Wine Estate, Stellenbosch</p>
 
-For more impressions of the stunning Western Cape region, I refer the avid reader to my [Flickr Album](https://www.flickr.com/photos/sebastiankrantz/albums/72177720314575573) with high-quality panoramic shots taken in Spring 2023 during my 3-month research visit at Stellenbosch University. 
+
+From Stellenbosch it takes about 45 minutes by car to get to Cape Town. While the city offers many serene corners, the [Victoria and Alfred (V&A) Waterfront](https://en.wikipedia.org/wiki/V%26A_Waterfront) is a particularly vibrant cultural and commercial hub that seamlessly blends history with modern development, set against the stunning backdrop of Table Mountain. Named after Queen Victoria and her son Prince Alfred, who began construction of the original breakwater in 1860, the waterfront played a key role in the city's maritime history as a bustling port. Over time, the area was transformed from a working harbor into one of South Africa’s most visited attractions, preserving historic buildings and docklands while introducing luxury hotels, world-class shopping, fine dining, and entertainment - in stark contrast to its earlier milieu of sailors and prostitutes. 
+
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/cape-town/_MG_4833-Pano.jpg"><img src="../from-zanzibar-to-cape-town/cape-town/_MG_4833-Pano.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/cape-town/IMG_2603.jpg"><img src="../from-zanzibar-to-cape-town/cape-town/IMG_2603.jpg" alt="soweto 2"></a>
+    <a href="../from-zanzibar-to-cape-town/cape-town/IMG_2595.jpg"><img src="../from-zanzibar-to-cape-town/cape-town/IMG_2595.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/cape-town/IMG_2608.jpg"><img src="../from-zanzibar-to-cape-town/cape-town/IMG_2608.jpg" alt="soweto 5"></a>
+</div>
+
+<p align="center">Victoria and Alfred (V&A) Waterfront, Cape Town</p>
+
+<p align="center" style="margin: 0; padding: 0;">
+    <video controls width="98%">
+        <source src="../from-zanzibar-to-cape-town/cape-town/waterfront.mp4" type="video/mp4">
+    </video>
+</p>
+
+I also did not miss the opportunity to hike Table Mountain again. Starting in the [Kirstenbosch Botanical Garden](https://www.sanbi.org/gardens/kirstenbosch/) with its notorious tree canopy walkway, I proceeded up [Skeleton Gorge](https://www.hikeaddicts.com/our-hikes/skeleton-gorge/) followed by Smuts Track to Maclear's Beacon (the highest point), and then crossed the top of the mountain until the cable car station. It is a wonderful hike that takes around 5 hours. However, on many days, the sight on top of the mountain is severely limited by the "Table Cloth" - clouds formed by warm winds from the sea condensating on top of it. This time, my sight near the cable car was severly limited, thus I supplemented my documentation with some pictures/footage from an earlier hike in 2023. 
+
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2616.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2616.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2617.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2617.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2628.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2628.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2639.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2639.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2643.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2643.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2644.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2644.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2647.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2647.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2650.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2650.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2656.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2656.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2657.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2657.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2660.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2660.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2664.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2664.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2665.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2665.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2685.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2685.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2686.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2686.jpg" alt="soweto 5"></a>
+</div>
+
+<p align="center">Hiking Table Mountain - from Kirstenbosch to the Cable Car Station</p>
+
+<p align="center" style="margin: 0; padding: 0;">
+    <video controls width="98%">
+        <source src="../from-zanzibar-to-cape-town/table-mountain/table-mountain.mp4" type="video/mp4">
+    </video>
+</p>
+
+
+As the iconic landmark of Cape Town, Table Mountain stands 1,085 meters above sea level, its flat-topped summit offering sweeping panoramic views of the city, the Atlantic Ocean, and the surrounding Cape Peninsula. Geologically, Table Mountain is over 600 million years old, making it one of the oldest mountains on Earth. Its unique profile, coupled with its rich biodiversity, has earned it a spot as one of the [New 7 Wonders of Nature](https://en.wikipedia.org/wiki/New_7_Wonders_of_Nature). The mountain is home to thousands of plant species, including the rare fynbos, as well as a variety of animal life. <!-- Visitors can take the scenic cable car ride to the top, or for the more adventurous, hike one of the several routes leading up the mountain. Whether shrouded in mist or bathed in sunlight, Table Mountain remains a symbol of Cape Town’s natural beauty and a must-see destination for travelers. -->
+
+<p align="center">
+    <a href="../from-zanzibar-to-cape-town/table-mountain/_MG_4979-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/table-mountain/_MG_4979-Pano.jpg" alt="Table Mountain" style="max-width: 1090px; width: 100%; margin-bottom: 5px; margin-top: 5px;">
+    </a>
+    <a href="../from-zanzibar-to-cape-town/table-mountain/_MG_5027-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/table-mountain/_MG_5027-Pano.jpg" alt="Table Mountain" style="max-width: 1090px; width: 100%; margin-bottom: 5px; margin-top: 5px;">
+    </a>
+    Table Mountain View from Bloubergstrand & View on Cape Town from the Lower Cable Car Station
+</p>
+
+As a family, during my two weeks, we did two excursions to Hermanus and West Coast National Park, respectively. 
+
+Hermanus, located about 120 kilometers southeast of Cape Town, is a charming coastal town renowned for its breathtaking scenery and world-class whale watching. Nestled between the cliffs of the Overberg region and the turquoise waters of Walker Bay, Hermanus has long been a popular retreat for nature lovers and adventure seekers. The town’s claim to fame is its position as one of the best whale watching destinations in the world, with Southern Right Whales migrating to its shores between June and December each year. Unfortunately, we didn't see any. <!-- Besides its natural beauty, Hermanus boasts a vibrant arts scene, with galleries, craft markets, and a variety of outdoor activities like hiking and fishing. The town’s old-world charm is reflected in its quaint streets lined with Cape Dutch architecture, and it also offers excellent vineyards and wine estates in the surrounding area, making it a perfect blend of relaxation, culture, and adventure. -->
+
+Because Khaled and Rajiv hat to be at university, Jurie and Maggie invited a young russian couple from St. Petersburg to join our trip. The man, whose name I won't mention here, was doing a PhD. During the drive from/to Hermanus we had great discussions about the war in Ukraine. He, himself close to the opposition and already blacklisted, offered remarkable insights into the workings of the Russian Kleptocracy and why the war was necessary for it to persist. 
+
+<div class="tiled-gallery">
+    <!-- <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7864.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7864.jpg" alt="soweto 5"></a> -->
+    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7873-Pano.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7873-Pano.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7884.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7884.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7898.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7898.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7900-Pano.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7900-Pano.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7917.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7917.jpg" alt="soweto 5"></a> 
+    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7920.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7920.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7923.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7923.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7921-Pano.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7921-Pano.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7925.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7925.jpg" alt="soweto 5"></a>
+    <!-- 
+    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7927.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7927.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7931.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7931.jpg" alt="soweto 5"></a>
+    -->
+</div>
+
+<p align="center">Hermanus</p>
+
+The West Coast National Park, situated to the northwest of Cape Town, is a stunning natural reserve that showcases the raw beauty of South Africa’s coastline. Stretching from the Atlantic Ocean to the inland wetlands of the Langebaan Lagoon, the park is renowned for its diverse ecosystems, including sandy beaches, salt marshes, and dense coastal fynbos. It is also a haven for birdwatchers, with over 250 species recorded, including migratory birds that flock to the park during the summer months. The park’s most famous attraction is its annual wildflower display, which paints the landscape in vibrant hues of orange, purple, and yellow as spring arrives. <!-- Visitors can explore the park’s hiking trails, enjoy picnics by the lagoon, or take in the breathtaking views from the top of the Bokmakierie Lookout. The West Coast National Park offers a serene escape from the bustle of Cape Town, providing a perfect blend of natural beauty, wildlife, and outdoor recreation. -->
+
+For more impressions of the stunning Western Cape region, I refer the avid reader to my [Flickr Album](https://www.flickr.com/photos/sebastiankrantz/albums/72177720314575573) with high-quality panoramic images taken during my 3-month research visit at Stellenbosch University in Spring 2023. 
 
 ## The End
 
 After a relaxing and eventful two weeks in Western Cape together with my lovely host family, left Cape Town on the 31st for September and arrived in Hamburg, Germany on the 1st of October. I had spent six weeks in Southern Africa, traveling more than 6000km from Zanzibar to Cape Town by public transport. It was an experience I will never forget, and a great feat I will likely never have the time to repeat in similar extent.  
 
-This post is therefore a tribute to myself but also to many who have expressed interest in this trip. I hope it inspired you to similar adventures and ignited a spark of fascination for this continent. 
-
+This post is therefore a memoir to myself, but also a tribute to many who have expressed interest in this trip. I hope it inspired you to similar adventures and ignited a spark of fascination for the African continent. 
 
 In the last week of September, while being in Stellenbosch, I also received a job offer, thus I knew my life would soon change. A month later, I am completing this post from Washington DC – change has indeed materialized quickly.
 
