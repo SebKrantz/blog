@@ -945,32 +945,55 @@ From Kimberley, after seeing the Big Hole which can be done in one day, I wanted
 
 The Western Cape has a rich and complex history shaped by indigenous cultures, colonialism, and political change. Long before European arrival, it was inhabited by the Khoikhoi and San peoples, who lived off the land and sea. In 1652, the Dutch established a refreshment station at what is now Cape Town under Jan van Riebeeck, marking the beginning of European colonization. The region later became a crucial part of the Dutch East India Company’s trade route. In 1806, the British took control of the Cape Colony, leading to significant changes in land ownership and social structures, especially with the introduction of slavery, which persisted until 1834. Over the years, the Western Cape played a key role in the development of South Africa, from the struggles during apartheid to the region’s role in the country’s eventual transition to democracy in 1994. <!-- The diverse cultural influences in the region reflect this turbulent history, contributing to the Western Cape’s vibrant social fabric today. -->
 
-From the airport, I went straight to Stellenbosch where my (former) host family during my research visit in spring 2023 had invited me to stay with them again during my time in Western Cape. The elderly couple, lovingly called papa Juri and mama Meggie, have been accomodating students at various levels for many years, and, apart from me, were currently hosting Khaled, a postdoc in statistics from Iran, and Rajiv, a master student in theology from Sri Lanka. Thus, I was in good company right away, and, as during my stay in early 2023, we did excursions together like a real family. But I also took this time to just relax and catch-up with a few people at the university. 
+From the airport, I went straight to Stellenbosch, where my (former) host family during my research visit in spring 2023 had invited me to stay with them again during my time in Western Cape. The elderly couple, lovingly called papa Jurie and mama Meggie, have been accomodating students at various levels for many years, and, apart from me, were currently hosting Khaled, a postdoc in statistics from Iran, and Rajiv, a master student in theology from Sri Lanka. Thus, I was in good company right away, and, as during my stay in early 2023, we did excursions together like a real family. But I also took this time to just relax and catch-up with a few people at the university. 
 
 <div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_E6465.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_E6465.jpg" alt="soweto 2"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/QQME6957.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/QQME6957.jpg" alt="soweto 2"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/MAOR0787.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/MAOR0787.jpg" alt="soweto 5"></a>
 </div>
 
-<p align="center">My Host Family in Stellenbosch</p>
+<p align="center">My Host Family in Stellenbosch – Then and Now</p>
 
 Stellenbosch, one of South Africa's oldest towns, is nestled in the heart of the Western Cape's winelands and holds a prominent place in the country's colonial and agricultural history. Founded in 1679 by the Dutch Governor Simon van der Stel, the town quickly became a hub for farming and settlement due to its fertile soil and mild climate. In the late 17th century, French Huguenots fleeing religious persecution arrived in the Cape and brought with them advanced viticulture knowledge, which greatly influenced the development of South Africa’s wine industry. Many of these settlers established farms in and around Stellenbosch, laying the foundations for what would become one of the most renowned wine-producing regions in the Southern Hemisphere. Today, Stellenbosch is celebrated not only for its world-class wines but also for its preserved Cape Dutch architecture, prestigious university, and deep cultural heritage that reflects centuries of European and African interaction.
 
 <div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2522.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2522.jpg" alt="soweto 5"></a>
+    <!-- <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7832-Pano.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7832-Pano.jpg" alt="soweto 5"></a> -->
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_4844-Pano.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_4844-Pano.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/KSSF7612.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/KSSF7612.jpg" alt="soweto 5"></a>
+    <!-- <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2718.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2718.jpg" alt="soweto 5"></a> -->
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/KDGW0404.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/KDGW0404.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2720.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2720.jpg" alt="soweto 5"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2397.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2397.jpg" alt="soweto 2"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7805.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7805.jpg" alt="soweto 5"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7806.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7806.jpg" alt="soweto 5"></a>
-   <!-- <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7810.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7810.jpg" alt="soweto 5"></a> -->
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7818.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7818.jpg" alt="soweto 5"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7832-Pano.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7832-Pano.jpg" alt="soweto 5"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2470.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2470.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7805.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7805.jpg" alt="soweto 5"></a>
+    <!-- 
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/KDGW0404.JPG"><img src="../from-zanzibar-to-cape-town/stellenbosch/KDGW0404.JPG" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7806.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7806.jpg" alt="soweto 5"></a>
+   <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7810.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7810.jpg" alt="soweto 5"></a> -->
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7818.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7818.jpg" alt="soweto 5"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2511.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2511.jpg" alt="soweto 5"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2590.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2590.jpg" alt="soweto 5"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2588.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2588.jpg" alt="soweto 5"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2718.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2718.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_5955.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_5955.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_5952.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_5952.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_5953.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_5953.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_5783.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_5783.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/TEWJ5554.JPG"><img src="../from-zanzibar-to-cape-town/stellenbosch/TEWJ5554.JPG" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/TOEK5143.JPG"><img src="../from-zanzibar-to-cape-town/stellenbosch/TOEK5143.JPG" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2462.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2462.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2426.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2426.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2690.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2690.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/MAOR0787.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/MAOR0787.jpg" alt="soweto 5"></a>
 </div>
 
 <p align="center">Stellenbosch and Surrounding Area</p>
+
+<p align="center" style="margin: 0; padding: 0;">
+    <video controls width="98%">
+        <source src="../from-zanzibar-to-cape-town/stellenbosch/stellenbosch.mp4" type="video/mp4">
+    </video>
+</p>
 
 One of the go-to places for a relaxing sunday afternoon in Stellenbosch is Lanzerac Wine Estate. Located just outside the historic town it is one of South Africa’s most iconic and storied wine farms, with a history dating back to 1692. The estate has played a significant role in the development of South African wine, most notably as the birthplace of the first bottled Pinotage — a uniquely South African varietal — in 1961. While the state is beautiful, the slave bell in the third picture is a solemn reminder of the darker parts of Western Cape history. <!-- Today, Lanzerac remains a landmark of Stellenbosch’s wine culture, blending historical significance with contemporary sophistication. -->
 
@@ -988,6 +1011,11 @@ One of the go-to places for a relaxing sunday afternoon in Stellenbosch is Lanze
 
 <p align="center">Lanzerac Wine Estate, Stellenbosch</p>
 
+<p align="center" style="margin: 0; padding: 0;">
+    <video controls width="98%">
+        <source src="../from-zanzibar-to-cape-town/stellenbosch/lanzerac.mp4" type="video/mp4">
+    </video>
+</p>
 
 From Stellenbosch it takes about 45 minutes by car to get to Cape Town. While the city offers many serene corners, the [Victoria and Alfred (V&A) Waterfront](https://en.wikipedia.org/wiki/V%26A_Waterfront) is a particularly vibrant cultural and commercial hub that seamlessly blends history with modern development, set against the stunning backdrop of Table Mountain. Named after Queen Victoria and her son Prince Alfred, who began construction of the original breakwater in 1860, the waterfront played a key role in the city's maritime history as a bustling port. Over time, the area was transformed from a working harbor into one of South Africa’s most visited attractions, preserving historic buildings and docklands while introducing luxury hotels, world-class shopping, fine dining, and entertainment - in stark contrast to its earlier milieu of sailors and prostitutes. 
 
