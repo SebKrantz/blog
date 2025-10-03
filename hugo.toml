@@ -66,3 +66,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "^README", "\\.
   showShareButtons = true
   showRelatedPosts = true
   showTableOfContents = true
+
+buildFuture = true
