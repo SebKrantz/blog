@@ -952,7 +952,7 @@ From the airport, I went straight to Stellenbosch, where my (former) host family
     <a href="../from-zanzibar-to-cape-town/stellenbosch/QQME6957.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/QQME6957.jpg" alt="soweto 2"></a>
 </div>
 
-<p align="center">My Host Family in Stellenbosch – Then and Now</p>
+<p align="center">My Host Family in Stellenbosch – 2023 (LHS) and 2025 (RHS)</p>
 
 Stellenbosch, one of South Africa's oldest towns, is nestled in the heart of the Western Cape's winelands and holds a prominent place in the country's colonial and agricultural history. Founded in 1679 by the Dutch Governor Simon van der Stel, the town quickly became a hub for farming and settlement due to its fertile soil and mild climate. In the late 17th century, French Huguenots fleeing religious persecution arrived in the Cape and brought with them advanced viticulture knowledge, which greatly influenced the development of South Africa’s wine industry. Many of these settlers established farms in and around Stellenbosch, laying the foundations for what would become one of the most renowned wine-producing regions in the Southern Hemisphere. Today, Stellenbosch is celebrated not only for its world-class wines but also for its preserved Cape Dutch architecture, prestigious university, and deep cultural heritage that reflects centuries of European and African interaction.
 
@@ -987,7 +987,7 @@ Stellenbosch, one of South Africa's oldest towns, is nestled in the heart of the
     <a href="../from-zanzibar-to-cape-town/stellenbosch/MAOR0787.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/MAOR0787.jpg" alt="soweto 5"></a>
 </div>
 
-<p align="center">Stellenbosch and Surrounding Area</p>
+<p align="center">Stellenbosch and Surrounding Area (2023 and 2025)</p>
 
 <p align="center" style="margin: 0; padding: 0;">
     <video controls width="98%">
@@ -1009,7 +1009,7 @@ One of the go-to places for a relaxing sunday afternoon in Stellenbosch is Lanze
     <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7778.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7778.jpg" alt="soweto 5"></a>
 </div>
 
-<p align="center">Lanzerac Wine Estate, Stellenbosch</p>
+<p align="center">Lanzerac Wine Estate, Stellenbosch (2025)</p>
 
 <p align="center" style="margin: 0; padding: 0;">
     <video controls width="98%">
@@ -1026,7 +1026,7 @@ From Stellenbosch it takes about 45 minutes by car to get to Cape Town. While th
     <a href="../from-zanzibar-to-cape-town/cape-town/IMG_2608.jpg"><img src="../from-zanzibar-to-cape-town/cape-town/IMG_2608.jpg" alt="soweto 5"></a>
 </div>
 
-<p align="center">Victoria and Alfred (V&A) Waterfront, Cape Town</p>
+<p align="center">Victoria and Alfred (V&A) Waterfront, Cape Town (2023 and 2025)</p>
 
 <p align="center" style="margin: 0; padding: 0;">
     <video controls width="98%">
@@ -1054,7 +1054,7 @@ I also did not miss the opportunity to hike Table Mountain again. Starting in th
     <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_2686.jpg"><img src="../from-zanzibar-to-cape-town/table-mountain/IMG_2686.jpg" alt="soweto 5"></a>
 </div>
 
-<p align="center">Hiking Table Mountain - from Kirstenbosch to the Cable Car Station</p>
+<p align="center">Hiking Table Mountain - from Kirstenbosch to the Cable Car Station (2025)</p>
 
 <p align="center" style="margin: 0; padding: 0;">
     <video controls width="98%">
@@ -1072,7 +1072,7 @@ As the iconic landmark of Cape Town, Table Mountain stands 1,085 meters above se
     <a href="../from-zanzibar-to-cape-town/table-mountain/_MG_5027-Pano.jpg">
         <img src="../from-zanzibar-to-cape-town/table-mountain/_MG_5027-Pano.jpg" alt="Table Mountain" style="max-width: 1090px; width: 100%; margin-bottom: 5px; margin-top: 5px;">
     </a>
-    Table Mountain View from Bloubergstrand & View on Cape Town from the Lower Cable Car Station
+    Table Mountain View from Bloubergstrand & View on Cape Town from the Lower Cable Car Station (2023)
 </p>
 
 As a family, during my two weeks, we did two excursions to Hermanus and West Coast National Park, respectively. 
@@ -1098,19 +1098,51 @@ Because Khaled and Rajiv hat to be at university, Jurie and Maggie invited a you
     -->
 </div>
 
-<p align="center">Hermanus</p>
+<p align="center">Hermanus (2025)</p>
 
-The West Coast National Park, situated to the northwest of Cape Town, is a stunning natural reserve that showcases the raw beauty of South Africa’s coastline. Stretching from the Atlantic Ocean to the inland wetlands of the Langebaan Lagoon, the park is renowned for its diverse ecosystems, including sandy beaches, salt marshes, and dense coastal fynbos. It is also a haven for birdwatchers, with over 250 species recorded, including migratory birds that flock to the park during the summer months. The park’s most famous attraction is its annual wildflower display, which paints the landscape in vibrant hues of orange, purple, and yellow as spring arrives. <!-- Visitors can explore the park’s hiking trails, enjoy picnics by the lagoon, or take in the breathtaking views from the top of the Bokmakierie Lookout. The West Coast National Park offers a serene escape from the bustle of Cape Town, providing a perfect blend of natural beauty, wildlife, and outdoor recreation. -->
+The West Coast National Park, situated to the northwest of Cape Town, is a stunning natural reserve that showcases the raw beauty of South Africa’s coastline. Stretching from the Atlantic Ocean to the inland wetlands of the Langebaan Lagoon, the park is renowned for its diverse ecosystems, including sandy beaches, salt marshes, and dense coastal fynbos. It is also a haven for birdwatchers, with over 250 species recorded, including migratory birds that flock to the park during the summer months. The park’s most famous attraction is its annual wildflower display, which paints the landscape in vibrant hues of orange, purple, and yellow as spring arrives – which was the mains reason for our trip. It is also home to a variety of wild animals, such as Zebras and Oryx Antelopes. <!-- Visitors can explore the park’s hiking trails, enjoy picnics by the lagoon, or take in the breathtaking views from the top of the Bokmakierie Lookout. The West Coast National Park offers a serene escape from the bustle of Cape Town, providing a perfect blend of natural beauty, wildlife, and outdoor recreation. -->
+
+<div class="tiled-gallery">
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7933.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7933.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7961.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7961.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7957.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7957.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7947.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7947.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7952.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7952.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7953.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7953.jpg" alt="soweto 5"></a> 
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8001.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8001.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7982.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7982.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7991.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7991.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8010.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8010.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7994.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7994.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7998.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7998.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7999.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7999.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8024.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8024.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8014.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8014.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8016.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8016.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8020.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8020.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8023.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8023.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_2712.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_2712.jpg" alt="soweto 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/NNIF8042.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/NNIF8042.jpg" alt="soweto 5"></a>
+</div>
+
+<p align="center">West Coast National Park (2025)</p>
+
+<p align="center" style="margin: 0; padding: 0;">
+    <video controls width="98%">
+        <source src="../from-zanzibar-to-cape-town/west-coast/west-coast.mp4" type="video/mp4">
+    </video>
+</p>
+
 
 For more impressions of the stunning Western Cape region, I refer the avid reader to my [Flickr Album](https://www.flickr.com/photos/sebastiankrantz/albums/72177720314575573) with high-quality panoramic images taken during my 3-month research visit at Stellenbosch University in Spring 2023. 
 
 ## The End
 
-After a relaxing and eventful two weeks in Western Cape together with my lovely host family, left Cape Town on the 31st for September and arrived in Hamburg, Germany on the 1st of October. I had spent six weeks in Southern Africa, traveling more than 6000km from Zanzibar to Cape Town by public transport. It was an experience I will never forget, and a great feat I will likely never have the time to repeat in similar extent.  
+After a relaxing and eventful two weeks in Western Cape together with my lovely host family, I left Cape Town on the 31st for September and arrived in Hamburg, Germany on the 1st of October. I had spent six weeks in Southern Africa, traveling more than 6000km from Zanzibar to Cape Town by public transport. It was an experience I will never forget, and a great feat I will likely never have the time to repeat in similar extent.  
 
-This post is therefore a memoir to myself, but also a tribute to many who have expressed interest in this trip. I hope it inspired you to similar adventures and ignited a spark of fascination for the African continent. 
+This post is therefore a memoir to myself, but also a tribute to many who have expressed interest in this journey. I hope it inspired you to similar adventures and ignited a spark of fascination for the African continent. 
 
-In the last week of September, while being in Stellenbosch, I also received a job offer, thus I knew my life would soon change. A month later, I am completing this post from Washington DC – change has indeed materialized quickly.
+Last but not least, I am happy that, in the last week of August, while being in Stellenbosch, I finally received a job offer. A month later, I am completing this post from Washington DC – change is indeed materializing.
 
 <br>
 
@@ -1118,4 +1150,8 @@ In the last week of September, while being in Stellenbosch, I also received a jo
 
 <br>
 
-***Notes:** High-quality images (e.g., of animals) were captured using a Canon 600D with 18-55mm + 70-200mm lenses – shot in RAW and subsequently edited in Adobe Lightroom Classic, which was also used for panorama stiches. Other pictures and all footage was captured uing an IPhone 13 mini. Videos were produced using IMovie.*
+***Technical and Editorial Notes***
+
+*High-quality images were captured using a Canon 600D with EF-S 18-55mm f/3.5-5.6 IS II and EF 70-200mm f4 L USM lenses – shot in RAW and edited in Adobe Lightroom Classic, which was also used for panorama stiches. Other pictures and all footage was captured in 1080p 30FPS HDR (Dolby Vision) using an IPhone 13 mini (except for South Africa footage from 2023 which was shot on an IPhone 8, also in 1080p). Short videos were produced using IMovie.*
+
+*Wikipedia and ChatGPT were also used to fill in some place descriptions and historical context / information. Any other errors (let me know if you find any), are mine or due to information relayed by fellow travelers or local guides.*
