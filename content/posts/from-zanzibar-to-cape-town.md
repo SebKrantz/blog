@@ -959,7 +959,7 @@ Rhodes’s wealth and influence allowed him to become a prominent political figu
 
 Rhodes’s legacy is complex and controversial; while he was a major proponent of Western development and infrastructure in southern Africa, his actions were also deeply tied to the subjugation and dispossession of indigenous African peoples. His legacy, especially in light of his beliefs in white supremacy and his role in the exploitation of Africa, remains a subject of intense debate and reflection in South Africa and beyond.
 
-From Kimberley, after seeing the Big Hole which can be done in one day, I wanted to take the bus to Cape Town the next day. However, it turns out all busses start in Johannesburg, pass through Kimberley in the afternoon, and reach Cape Town in the late afternoon/evening of the following day. The alternative, as Kimberley has a small airport, is to fly to Cape Town, boarding a plane at 9am which reaches Cape Town at 10am. I was a bit tired of my trip and the bus experience to Kimberley, thus this was a very welcome option to save two days on the road for lovely Western Cape. The flight itself was also a scenic transition from the rather dry northern cape region to the lush green western cape – with different methods of farming in the two regions clearly distinguishable from above. 
+From Kimberley, after seeing the Big Hole which can be done in one day, I wanted to take the bus to Cape Town the next day. However, it turns out all busses start in Johannesburg, pass through Kimberley in the afternoon, and reach Cape Town in the late afternoon/evening of the following day. The alternative, as Kimberley has a small airport, is to fly to Cape Town, boarding a plane at 9am which reaches Cape Town at 10am. I was a bit tired of my trip and the bus experience to Kimberley, thus this was a very welcome option to save two days on the road for lovely Western Cape. The flight itself was also a scenic transition from the rather dry Northern Cape region to the lush green Western Cape – with different methods of farming in the two regions clearly distinguishable from above. 
 
 
 ## Western Cape – Sublime Landscapes, Wine Farms, Excursions and Hikes
@@ -1017,7 +1017,7 @@ Stellenbosch, one of South Africa's oldest towns, is nestled in the heart of the
     {{< youtube AnDha8XARfo >}}
 </p>
 
-One of the go-to places for a relaxing sunday afternoon in Stellenbosch is Lanzerac Wine Estate. Located just outside the historic town it is one of South Africa’s most iconic and storied wine farms, with a history dating back to 1692. The estate has played a significant role in the development of South African wine, most notably as the birthplace of the first bottled Pinotage — a uniquely South African varietal — in 1961. While the state is beautiful, the slave bell in the third picture is a solemn reminder of the darker parts of Western Cape history. <!-- Today, Lanzerac remains a landmark of Stellenbosch’s wine culture, blending historical significance with contemporary sophistication. -->
+One of the go-to places for a relaxing sunday afternoon in Stellenbosch is Lanzerac Wine Estate. Located just outside the historic town it is one of South Africa’s most iconic and storied wine farms, with a history dating back to 1692. The estate has played a significant role in the development of South African wine, most notably as the birthplace of the first bottled Pinotage — a uniquely South African varietal — in 1961. While the estate is beautiful, the slave bell in the third picture is a solemn reminder of the darker parts of Western Cape history. <!-- Today, Lanzerac remains a landmark of Stellenbosch’s wine culture, blending historical significance with contemporary sophistication. -->
 
 <div class="tiled-gallery">
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7815.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7815.jpg" alt="Lanzerac Wine Estate 1"></a>
@@ -1164,7 +1164,7 @@ For more impressions of the stunning Western Cape region, I refer the avid reade
 
 ## The End
 
-After a relaxing and eventful two weeks in Western Cape together with my lovely host family, I left Cape Town on the 31st of September and arrived in Hamburg, Germany on the 1st of October. I had spent six weeks in Southern Africa, traveling more than 6000km from Zanzibar to Cape Town by public transport. It was an experience I will never forget, and a great feat I will likely never have the time to repeat in similar extent.  
+After a relaxing and eventful two weeks in Western Cape together with my lovely host family, I left Cape Town on the 31st of August and arrived in Hamburg, Germany on the 1st of September. I had spent six weeks in Southern Africa, traveling more than 6000km from Zanzibar to Cape Town by public transport. It was an experience I will never forget, and a great feat I will likely never have the time to repeat in similar extent.  
 
 This post is therefore a memoir to myself, but also a tribute to many who have expressed interest in this journey. I hope it inspired you to similar adventures and ignited a spark of fascination for the African continent. 
 
