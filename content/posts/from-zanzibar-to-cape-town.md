@@ -70,10 +70,12 @@ In the evenings, Stone Town Beach comes alive with locals and visitors alike. On
 
 <p align="center">Stone Town Beach, Zanzibar</p>
 
+
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
-        <source src="../from-zanzibar-to-cape-town/stone-town-beach/stone_town_beach.mp4" type="video/mp4">
-    </video>
+    <!-- <video controls width="98%">
+        <source src="../from-zanzibar-to-cape-town/stone-town-beach/stone_town_beach.mp4" type="video/mp4">   
+    </video> -->
+    {{< youtube PyXbmrQ7sME >}}
 </p>
 
 A well known excursion from Stone Town is visiting Changuu (Prison Island) by boat – 5.6 km (3.5 mi) northwest of Stone Town. The island was uninhabited until the 1860s when the first Sultan of Zanzibar, Majid bin Said, gave it to two Arabs who used it as a prison for rebellious slaves prior to shipping them abroad or selling them at the slave market in Stone Town. More recently, the island has become a government-owned tourist resort and houses a collection of endangered Aldabra giant tortoises – a gift from the British governor of the Seychelles in 1919.
@@ -110,9 +112,10 @@ Curiously, I shared the boat ride from Stone Town with a group of Indian Catholi
 <p align="center">Prison Island, Zanzibar</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/prison-island/prison-island.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube SK3cMaNreJM >}}
 </p>
 
 Another well-known adventure is Safari Blue – a full-day boat and snorkeling trip exploring the crystal-clear waters, sandbanks, and small islands southwest of Stone Town. The excursion includes opportunities for dolphin spotting, swimming, and enjoying a seafood barbecue on a remote island. Taking the budget option, I ended up in a crammed boat with lots of Africans – and befriended a Tanzanian family which took me out for some drinks in Stone Town afterwards. I also met my holy brothers from Prison Island again on a sandbank – the world is small over here.
@@ -183,9 +186,10 @@ Approximately in the middle of the island is Jozani Forest, the largest remainin
 <p align="center">Jozani Forest, Zanzibar</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/jozani-forest/jozani-forest.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube hdfN9yto3XU >}}
 </p>
 
 Traveling further to the east coast, the island’s many beaches are also renowned for their powdery white sand and turquoise waters, offering a tranquil escape from the city. The coastline is dotted with palm trees, villages, and resorts. Paje is a lively beach village famous for its kite surfing scene and relaxed atmosphere, while nearby Michamvi offers a quieter, more secluded vibe. The Rock Restaurant is a popular spot for fresh seafood and local dishes, and Kae Funk Sunset Beach is known for its stunning sunsets, live music, and laid-back beach bar ambiance.
@@ -211,17 +215,19 @@ Traveling further to the east coast, the island’s many beaches are also renown
 <p align="center">Paje and Michamvi, Zanzibar</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/paje-michamvi/paje-michamvi.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube 8MxPlaRluqw >}}
 </p>
 
 From Zanzibar to Dar Es Salaam it takes about 1.5 hours with the fast ferries, which are the cheapest way to travel, but dashing through big ocean waves at high speeds may induce sea-sickness. Approaching Dar, one passes by the Kivukoni Fish Market where local fishermen bring in fresh catches and residents come to buy, cook, and sell.
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/dar-es-salaam/dar-fishmarket.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube H6aT9Vwe9hQ >}}
     Kivukoni Fish Market, Dar Es Salaam
 </p>
 
@@ -257,9 +263,10 @@ A bit further on the right side, one passes by the Azania Front Lutheran Church.
 <p align="center">Azania Front Lutheran Church, Dar Es Salaam</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/dar-es-salaam/luthern-church.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube ZPRM6GFPR28 >}}
 </p>
 
 Other things to do in Dar is to visit the National Museum and the Botanical Garden, both close to the church, but there is not a lot to see and also not much historical storyline. The only two exhibits I photographed were the countries first airplane and a car driven by Nyerere. Next to the museum is a memorial of the [1988 US Embassy bombings](https://en.wikipedia.org/wiki/1998_United_States_embassy_bombings), where al-Qaeda suicide bombers simultaneously detonated trucks loaded with TNT before the US Embassies in Dar Es Salaam and Nairobi, killing 213 in Nairobi and 11 in Dar. There are also several beaches, but none competitive with Zanzibar in the immediate vicinity of the city. Yet, [Bravo Coco Beach](https://bravococo.co.tz/home) is a nice place to hang out, and I was fortunate to meet Nasra, a Somali women who had lived in Europe for almost two decades but had recently returned to Dar to start a luxury hair care chain. Her Tanzanian coworkers joined later, and we had excellent conversations about Africa and the future – its encouraging to see that, amidst rising global uncertainty, some people are returning to build this continent. I was also very fortunate to meet my aunt and her husband in Dar, who were at the end of an extended vacation and had just taken the [TAZARA train](https://en.wikipedia.org/wiki/TAZARA_Railway) from Mbeya. Together we visited Kariakoo Market – the largest market in Dar. This indoor/outdoor market spills into several city blocks, and buzzes day and night.
@@ -297,9 +304,10 @@ Other things to do in Dar is to visit the National Museum and the Botanical Gard
 <p align="center">National Museum, Coco Beach, and Kariakoo Market in Dar Es Salaam</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/dar-es-salaam/kariakoo-market.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube RvBNetcvHK4 >}}
 </p>
 
 Lastly, I visited the World Bank office in Dar and met two staff members working on geospatial analytics and digital infrastructure development in Southern Africa – work that I had started to engage in as a consultant. 
@@ -309,9 +317,10 @@ Lastly, I visited the World Bank office in Dar and met two staff members working
 Having spent a relaxing yet eventful 8 days in Zanzibar and Dar Es Salaam, I was finally ready, on the 29th of July, to embark on my big journey towards Cape Town. The first stage was a scenic overnight train jouney with the [TAZARA train](https://en.wikipedia.org/wiki/TAZARA_Railway) to Mbeya, the largest city in southern Tanzania situated only ~100km from the border to Zambia. As mentioned in the introduction, this train was built from 1970 to 1975 by the governments of Tanzania, Zambia, and China (under Mao) to eliminate landlocked Zambia's economic dependence on Rhodesia and (apartheid) South Africa by facilitating the export of Zambian copper through the port in Dar Es Salaam. The regular travel time for the ~850km journey was 24 hours – but we ended up taking 32. I reserved a first-class coach, which I shared with Alex, an american from California. It is a lying coach with some blankets provided and a table – dating, it seems, from 1975 and has seen a lot of train journeys. Thus, not much is left from the original comfort and cleanliness, but it is still very acceptable. The main source of discomfort with the train are the tracks, which are uneven/bumpy in some places, and also have gaps between adjacent segments to accommodate the extreme heat in summer which lets the steel expand. These gaps, traversed at a speed of only 30-50km/h make for a constant "du dum, du dum" sound throughout most of the trip. The food served 3 times a day is edible but not great either. Yet, I believe the breathtaking scenery makes it totally worthwhile to choose this mode of transport. You can judge it yourself, let the journey begin.  
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/TAZARA/TAZARA.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube n629ItRccag >}}
     From Dar Es Salaam to Mbeya with the TAZARA Train
 </p>
 
@@ -353,9 +362,10 @@ In Mbeya five of us from the first-class coach, that is Alex from Palo Alto Cali
 <p align="center">Ngozi Crater Lake, Mbeya</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/lake-ngozi/lake-ngozi.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube aHXLKdyHjzc >}}
 </p>
 
 The next day, Alex and Ana continued towards Malawi, and I took a private tour with Henry to a view point of the [Great Rift Valley](https://en.wikipedia.org/wiki/East_African_Rift) close to the city, which itself lies within the valley. The day was a bit hazy so our sight was not perfect, but the pictures and footage still give an impression of the extent of it. 
@@ -378,9 +388,10 @@ The next day, Alex and Ana continued towards Malawi, and I took a private tour w
 <p align="center">Great Rift Valley, Mbeya</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/rift-valley/rift-valley.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube xFehaIJ58DU >}}
 </p>
 
 ## Mbeya to Lusaka – History of Zambia and Commercial Fare
@@ -422,9 +433,10 @@ Right after the Rift Valley trip, I departed for the Zambia Border at Tunduma wi
 <p align="center">From Mbeya to Lusaka</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/mbeya-lusaka/mbeya-lusaka.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube r21Yw8A4u7E >}}
 </p>
 
 From Nakonde I then took a big South African tourbus to Lusaka – a 1000km 16h journey. Originally, I had of course hoped to continue with the TAZARA train directly from Mbeya, but it turns out, due to maintenance issues, the train is currently only operating between Dar and Mbeya. So I had to take the tour Bus, which, beholding that it took me 32 hours to drive 850km from Dar to Mbeya, was a welcome rotation. What was less welcoming was my experience trying to get on the Bus. I had agreed with Lole to meet at the Bus station in Nakonde in the morning after spending the night in the Hotel and he would guide me to the right bus. But, when I texted him in the morning there was no response – due to network issues as we later found out – and I set off for the station on my own. As I walked into the station compoind, it turned out there were 3 or 4 busses of different companies and sizes going to Lusaka, and I immediately had 4 conductors taking my arm to guide me to their bus. That obviously didn't work out, and they started shouting at me and at each other and to pull me uncomfortably hard, others joined around them, so I became a spectacle in the bus station – a white man being dragged around by competing conductors while trying to hold on to his luggage. In the end I also got a bit scared and started shouting at them as well. Using all my strength I was able to free myself and set off back to the Hotel again. On the way back there I bumped into Lole who had wanted to pick me. We returned to the station, avoiding the crowd, and he arranged for me a ticket with the South African company. <br>
@@ -474,9 +486,10 @@ Also during my presence in Lusaka, the [Agricultural and Commercial Show](https:
 <p align="center">Lusaka</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/lusaka/lusaka.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube swWQ4iR-q2I >}}
 </p>
 
 From Lusaka I wanted to to continue again by train to Livingstone, and there is a [passenger service](https://zrl.com.zm/passengers/) along this route by Zambia Railways, but the Train only departs once a week on Saturday morning, and I had arrived in Lusaka on Saturday and wanted to leave on Tuesday. Thus, I was compelled to again take a bus, which at ~8 hours was also faster than the purported 18 hours with the train. To avoid any further hassle at the bus station in Lusaka, I ordered the taxi driver that had taken me and the french guys around town earlier to pick up a ticket for me at the bus station and then come to pick me and drop me off directly at the bus. That worked very well, and I arrived safely in Livingstone on Tuesday the 5th of August in the evening. Packpackers lodges were unfortunately already full, thus my local driver that I met at the bus station dropped me off at Chapa Classic Lodge, which offered great comfort at affordable rates a 10-minute walk from the center of town. <br>
@@ -556,9 +569,10 @@ From the museum I went for an initial exploration of the falls and the Zambezi R
 <p align="center">Victoria Falls Bridge and Sambesi River Sunset Cruise</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/livingstone/livingstone.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube Igmmeg09QoI >}}
 </p>
 
 The next day then I booked a full-day tour to see the Victoria Falls from both sides. They are unfortunately also split between the two countries, with Zimbabwe posessing about 2/3 of the falls and Zambia the remaining 1/3. Thus, logistics are a bit complicated. A [guided tour](https://www.getyourguide.com/en-gb/victoria-falls-town-l127068/victoria-falls-guided-tour-of-the-falls-from-both-sides-t414370/?visitor-id=H0AHDLWQLLCNPK7OTTFV48YYHJ6FLEWF&locale_autoredirect_optout=true) with [Cuckoo Safaris](https://www.cuckoosafaris.com/) is bookable with pickup in both Livingstone and Victoria Falls in Zimbabwe. The tour starts in Zimbabwe, so coming from Livingstone I had to get a visa for $30 and cross the border, pay $50 for the park entrance there, and see the Zimbabwean falls in a guided 3 hour tour with a Zimbabwan guide. Afterwards, cross the border again (invalidating the visa), pay another $30 park fee, and take a 2 hour tour with a Zambian guide. One can, of course, just see the falls from one side with less hassle, or book a helicopter trip from either side to fly over them, but to me, seeing them close up in full width was rewarding enough. As part of our tour group, I met Ruby, a teacher from London whom I enjoyed conversing with – thus the joint picture.  <br> 
@@ -596,9 +610,10 @@ Referring to the falls, some locals speak of “The Smoke That Thunders” – a
 <p align="center">Victoria Falls from Zimbabwe to Zambia – with <a href="https://www.cuckoosafaris.com/">Cuckoo Safaris</a></p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/victoria-falls/victoria-falls.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube 2nhn3OfZ4Rs >}}
 </p>
 
 The following day I also explored the george below the falls by means of a wildwater rafting expedition with [Maano Adventures](https://www.maanoadventures.com/), which tooks us 14km down thr river through ~20 rapids. Apart from the thrill of the rapids, the scenery of the george is fantastic and reminded me of a trip on the colorado river in Canyonlands National Park some years ago. The company was in the process of filming a new commercial and offered us free access to the footage for a review. In comparison with the White Nile at Jinja – my only previous rafting experience – I found the Sambesi rapids a bit smaller and more manageable (the raft didn't tip over), but also the water level of the Sambesi was not at its peak. 
@@ -630,9 +645,10 @@ The following day I also explored the george below the falls by means of a wildw
 <p align="center">Rafting the Zambesi River – with <a href="https://www.maanoadventures.com/">Maano Adventures</a></p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/zambesi/zambesi.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube oYMpHWtHk5Q >}}
 </p>
 
 
@@ -684,9 +700,10 @@ Overall, the package was a fantastic deal, offering a premier wildlife experienc
 <p align="center">Chobe National Park, Botsuana</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/chobe/chobe.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube Xrrb0Cy1KsE >}}
 </p>
 
 In the end, the lioness was unfortunately (fortunately for the antelope) not successful. Part of the reason was, as our guide excellently explained to us, that the antilope was alerted by the cars watching her, thinking "why am I so special today, there must be a predator around". Thus, while the experience was amazing, it also showcases how tourism makes it harder, especially for the sought after predators, to survive naturally in these parks. <br>
@@ -913,9 +930,10 @@ As miners arrived in their thousands the hill disappeared and subsequently becam
 <p align="center">Big Hole / Kimberley Mine, Kimberley</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/kimberley/IMG_2340.MOV" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube sbDMOtQYByI >}}
 </p>
 
 It was also surprising for me to learn, that the Big Hole in Kimberley is basically an excavated volcano. Kimberlite pipes, such as the one in Kimberley, are deep, cylindrical geological formations formed by volcanic eruptions that bring material from deep within the Earth’s mantle to the surface. These eruptions, which occurred millions of years ago, forcefully expel kimberlite—a type of volcanic rock—along with various minerals, including diamonds. Diamonds crystallize under intense heat and pressure, typically around 140 to 190 kilometers below Earth's surface, and are then transported to the surface through these kimberlite eruptions.
@@ -990,9 +1008,10 @@ Stellenbosch, one of South Africa's oldest towns, is nestled in the heart of the
 <p align="center">Stellenbosch and Surrounding Area (2023 and 2025)</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/stellenbosch/stellenbosch.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube AnDha8XARfo >}}
 </p>
 
 One of the go-to places for a relaxing sunday afternoon in Stellenbosch is Lanzerac Wine Estate. Located just outside the historic town it is one of South Africa’s most iconic and storied wine farms, with a history dating back to 1692. The estate has played a significant role in the development of South African wine, most notably as the birthplace of the first bottled Pinotage — a uniquely South African varietal — in 1961. While the state is beautiful, the slave bell in the third picture is a solemn reminder of the darker parts of Western Cape history. <!-- Today, Lanzerac remains a landmark of Stellenbosch’s wine culture, blending historical significance with contemporary sophistication. -->
@@ -1012,9 +1031,10 @@ One of the go-to places for a relaxing sunday afternoon in Stellenbosch is Lanze
 <p align="center">Lanzerac Wine Estate, Stellenbosch (2025)</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/stellenbosch/lanzerac.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube khDgCYP_Lhk >}}
 </p>
 
 From Stellenbosch it takes about 45 minutes by car to get to Cape Town. While the city offers many serene corners, the [Victoria and Alfred (V&A) Waterfront](https://en.wikipedia.org/wiki/V%26A_Waterfront) is a particularly vibrant cultural and commercial hub that seamlessly blends history with modern development, set against the stunning backdrop of Table Mountain. Named after Queen Victoria and her son Prince Alfred, who began construction of the original breakwater in 1860, the waterfront played a key role in the city's maritime history as a bustling port. Over time, the area was transformed from a working harbor into one of South Africa’s most visited attractions, preserving historic buildings and docklands while introducing luxury hotels, world-class shopping, fine dining, and entertainment - in stark contrast to its earlier milieu of sailors and prostitutes. 
@@ -1029,9 +1049,10 @@ From Stellenbosch it takes about 45 minutes by car to get to Cape Town. While th
 <p align="center">Victoria and Alfred (V&A) Waterfront, Cape Town (2023 and 2025)</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/cape-town/waterfront.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube jObPO5LQH50 >}}
 </p>
 
 I also did not miss the opportunity to hike Table Mountain again. Starting in the [Kirstenbosch Botanical Garden](https://www.sanbi.org/gardens/kirstenbosch/) with its notorious tree canopy walkway, I proceeded up [Skeleton Gorge](https://www.hikeaddicts.com/our-hikes/skeleton-gorge/) followed by Smuts Track to Maclear's Beacon (the highest point), and then crossed the top of the mountain until the cable car station. It is a wonderful hike that takes around 5 hours. However, on many days, the sight on top of the mountain is severely limited by the "Table Cloth" - clouds formed by warm winds from the sea condensating on top of it. This time, my sight near the cable car was severly limited, thus I supplemented my documentation with some pictures/footage from an earlier hike in 2023. 
@@ -1057,9 +1078,10 @@ I also did not miss the opportunity to hike Table Mountain again. Starting in th
 <p align="center">Hiking Table Mountain - from Kirstenbosch to the Cable Car Station (2025)</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/table-mountain/table-mountain.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube XAkpEdZi8x8 >}}
 </p>
 
 
@@ -1128,9 +1150,10 @@ The West Coast National Park, situated to the northwest of Cape Town, is a stunn
 <p align="center">West Coast National Park (2025)</p>
 
 <p align="center" style="margin: 0; padding: 0;">
-    <video controls width="98%">
+    <!-- <video controls width="98%">
         <source src="../from-zanzibar-to-cape-town/west-coast/west-coast.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    {{< youtube 9vtb7jDnuCQ >}}
 </p>
 
 
