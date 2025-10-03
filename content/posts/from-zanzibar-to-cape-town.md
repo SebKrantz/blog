@@ -228,7 +228,7 @@ From Zanzibar to Dar Es Salaam it takes about 1.5 hours with the fast ferries, w
         <source src="../from-zanzibar-to-cape-town/dar-es-salaam/dar-fishmarket.mp4" type="video/mp4">
     </video> -->
     {{< youtube H6aT9Vwe9hQ >}}
-    Kivukoni Fish Market, Dar Es Salaam
+    <p align="center">Kivukoni Fish Market, Dar Es Salaam</p>
 </p>
 
 A bit further on the right side, one passes by the Azania Front Lutheran Church. It was built by the German missionaries in 1898, in the Bavarian style of the time, with a red-tiled roof, tiled canopies over the windows and bright white walls. I stayed in a hostel right next to it (Luther House Hostel) and had the pleasure to meet the accountant of the Church who took me on an exclusive tour including the church tower – from which I enjoyed scenic views of both the city and the port. The port overall seemed very busy, with many ships waiting to enter the harbour. 
@@ -321,7 +321,7 @@ Having spent a relaxing yet eventful 8 days in Zanzibar and Dar Es Salaam, I was
         <source src="../from-zanzibar-to-cape-town/TAZARA/TAZARA.mp4" type="video/mp4">
     </video> -->
     {{< youtube n629ItRccag >}}
-    From Dar Es Salaam to Mbeya with the TAZARA Train
+    <p align="center">From Dar Es Salaam to Mbeya with the TAZARA Train</p>
 </p>
 
 In Mbeya five of us from the first-class coach, that is Alex from Palo Alto California, Ana from Cape Town, and a frensh lady with her daughter, and me, ended up in the [Peace of Mind Hotel](https://peaceofmindhotel.com/). Seems like the place to be in Mbeya – my Aunt in Dar hat told me about it and connected me with Henry, a local guide based at the hotel. Given the happy coincidence of out extended company, hired Henry and a car and went on a Hike to [Lake Ngozi](https://en.wikipedia.org/wiki/Lake_Ngozi), the second largest crater lake in Africa, with a surface area of 3.1km2. The lake is located at an altitude of 2622m, most of which can be ascended by car, but the last ~300m need to be hiked on a path of 1.7km length through a kind of highland jungle. 
@@ -768,7 +768,7 @@ The **National Museum and Art Gallery** in Gaborone showcases Botswana's rich hi
     <a href="../from-zanzibar-to-cape-town/gaborone/IMG_2169.jpg"><img src="../from-zanzibar-to-cape-town/gaborone/IMG_2169.jpg" alt="gaborone 3"></a>
 </div>
 
-<p align="center">National Museum (Above) and Art Gallery (Below) in Gaborone</p>
+<p align="center" style="margin-bottom: 0; padding-bottom: 0;">National Museum (Above) and Art Gallery (Below) in Gaborone</p>
 
 <div class="tiled-gallery">
     <a href="../from-zanzibar-to-cape-town/gaborone/IMG_2188.jpg"><img src="../from-zanzibar-to-cape-town/gaborone/IMG_2188.jpg" alt="gaborone 1"></a>
@@ -781,6 +781,7 @@ The **National Museum and Art Gallery** in Gaborone showcases Botswana's rich hi
     <a href="../from-zanzibar-to-cape-town/gaborone/IMG_2186.jpg"><img src="../from-zanzibar-to-cape-town/gaborone/IMG_2186.jpg" alt="gaborone 2"></a>
     <a href="../from-zanzibar-to-cape-town/gaborone/IMG_2198.jpg"><img src="../from-zanzibar-to-cape-town/gaborone/IMG_2198.jpg" alt="gaborone 2"></a>    
 </div>
+<br>
 
 I would have liked to spend more Time in Botswana, e.g., to visit the **Okavango Delta** – the world's largest inland delta, a UNESCO World Heritage site, renowned for its rich biodiversity and vibrant wildlife, including elephants, lions, and various bird species, but a job interview I wanted to take from Johannesburg and my overall schedule precluded further activities there. Transit to Johannesburg with the early morning Intercape Bus was very smooth – it takes around 7-8 hours for the ~400km trip with border crossing and stop in Pretoria, thus I arrived in the afternoon. 
 
