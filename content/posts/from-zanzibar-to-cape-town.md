@@ -11,7 +11,7 @@ categories = ['travel']
 In mid-July 2025, I decided to embark on a 6-week trip from Zanzibar/Dar es Salaam to Cape Town via public transport. My reasons for taking this trip were burnout – I had finished my PhD in 2024 without any real vacation that year and had gone straight into short-term consulting and job searching – and my frustration with the inhumane job market this year, particularly in the US and international institutions. I had also been conceiving this trip for a while, and felt like it was the right time to just do it. My original inspiration had been the [Rovos Rail](https://rovos.com/) itinerary shown below. 
 
 <p align="center">
-    <a href="../from-zanzibar-to-cape-town/IMG_E1505.JPG"><img src="../from-zanzibar-to-cape-town/IMG_E1505.JPG" alt="Rovos Rail Itinerary" style="max-width: 600px; width: 100%; margin-bottom: 5px; margin-top: 5px;"></a>
+    <a href="../from-zanzibar-to-cape-town/IMG_E1505.jpg"><img src="../from-zanzibar-to-cape-town/IMG_E1505.jpg" alt="Rovos Rail Itinerary" style="max-width: 600px; width: 100%; margin-bottom: 5px; margin-top: 5px;"></a>
     Rovos Rail Dar Es Salaam to Cape Town Itinerary - My Inspiration
 </p>
 
@@ -26,9 +26,9 @@ So I searched for flights, and found that flying directly to Zanzibar with Condo
 Once the center of the East African slave and spice trades, Zanzibar was ruled by Arab sultans and later became a British protectorate. Its rich cultural heritage reflects centuries of African, Arab, Persian, and European influences. Stone Town is the historic heart of Zanzibar City – a labyrinth of narrow alleys, bustling bazaars, and intricately carved wooden doors. Its UNESCO World Heritage status highlights its unique blend of architectural styles and vibrant street life. A particular highlight to me is the fresh sugarcane juice, which is not easily found elsewhere in Africa. Below you can see me consuming it first alone, and then with Ahmad, a local statistician, and his wife.  
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/stone-town/_MG_6881.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/IMG_6881.jpg" alt="Stone Town 1"></a>
+    <a href="../from-zanzibar-to-cape-town/stone-town/IMG_6881.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/IMG_6881.jpg" alt="Stone Town 1"></a>
     <a href="../from-zanzibar-to-cape-town/stone-town/IMG_1237.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/IMG_1237.jpg" alt="Stone Town 2"></a>
-    <a href="../from-zanzibar-to-cape-town/stone-town/XIZS3777.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/XIZS3777.jpg" alt="Stone Town 3"></a>
+    <a href="../from-zanzibar-to-cape-town/stone-town/IMG_3777.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/IMG_3777.jpg" alt="Stone Town 3"></a>
     <a href="../from-zanzibar-to-cape-town/stone-town/IMG_1246.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/IMG_1246.jpg" alt="Stone Town 4"></a>
     <a href="../from-zanzibar-to-cape-town/stone-town/IMG_1241.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/IMG_1241.jpg" alt="Stone Town 5"></a>
     <a href="../from-zanzibar-to-cape-town/stone-town/IMG_1243.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/IMG_1243.jpg" alt="Stone Town 6"></a>
@@ -42,8 +42,8 @@ Once the center of the East African slave and spice trades, Zanzibar was ruled b
 The historic Old Fort was originally built by the Portuguese in the 17th century and later re-built by the Omanis in the 18th century. It was used as a garrison and prison in the 19th century, and as a terminal of the Zanzibar railways 1905-28. I was also told incoming slaves were gathered on the floor there before being brought to the market.
 
 <p align="center">
-    <a href="../from-zanzibar-to-cape-town/IMG_1258.jpg">
-        <img src="../from-zanzibar-to-cape-town/IMG_1258.jpg" alt="Old Fort, Stone Town" style="max-width: 1090px; width: 100%; margin-bottom: 5px; margin-top: 5px;">
+    <a href="../from-zanzibar-to-cape-town/stone-town/IMG_1258.jpg">
+        <img src="../from-zanzibar-to-cape-town/stone-town/IMG_1258.jpg" alt="Old Fort, Stone Town" style="max-width: 1090px; width: 100%; margin-bottom: 5px; margin-top: 5px;">
     </a>
     Old Fort in Stone Town, Zanzibar
 </p>
@@ -52,14 +52,14 @@ In the evenings, Stone Town Beach comes alive with locals and visitors alike. On
 
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/stone-town-beach/_MG_6936-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/stone-town-beach/_MG_6936-Pano.jpg" alt="Stone Town Beach 1">
+    <a href="../from-zanzibar-to-cape-town/stone-town-beach/IMG_6936-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/stone-town-beach/IMG_6936-Pano.jpg" alt="Stone Town Beach 1">
     </a>
-    <a href="../from-zanzibar-to-cape-town/stone-town-beach/_MG_6951.jpg">
-        <img src="../from-zanzibar-to-cape-town/stone-town-beach/_MG_6951.jpg" alt="Stone Town Beach 2">
+    <a href="../from-zanzibar-to-cape-town/stone-town-beach/IMG_6951.jpg">
+        <img src="../from-zanzibar-to-cape-town/stone-town-beach/IMG_6951.jpg" alt="Stone Town Beach 2">
     </a>
-    <a href="../from-zanzibar-to-cape-town/stone-town-beach/_MG_6958-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/stone-town-beach/_MG_6958-Pano.jpg" alt="Stone Town Beach 3">
+    <a href="../from-zanzibar-to-cape-town/stone-town-beach/IMG_6958-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/stone-town-beach/IMG_6958-Pano.jpg" alt="Stone Town Beach 3">
     </a>
     <!--
     <a href="../from-zanzibar-to-cape-town/stone-town-beach/_MG_6962.jpg">
@@ -84,25 +84,25 @@ Curiously, I shared the boat ride from Stone Town with a group of Indian Catholi
 
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/prison-island/_MG_6931.jpg">
-        <img src="../from-zanzibar-to-cape-town/prison-island/_MG_6931.jpg" alt="Prison Island 1">
+    <a href="../from-zanzibar-to-cape-town/prison-island/IMG_6931.jpg">
+        <img src="../from-zanzibar-to-cape-town/prison-island/IMG_6931.jpg" alt="Prison Island 1">
     </a>
     <!--   
     <a href="../from-zanzibar-to-cape-town/prison-island/_MG_6915.jpg">
         <img src="../from-zanzibar-to-cape-town/prison-island/_MG_6915.jpg" alt="Prison Island 2">
     </a>
     -->
-    <a href="../from-zanzibar-to-cape-town/prison-island/_MG_6910.jpg">
-        <img src="../from-zanzibar-to-cape-town/prison-island/_MG_6910.jpg" alt="Prison Island 2">
+    <a href="../from-zanzibar-to-cape-town/prison-island/IMG_6910.jpg">
+        <img src="../from-zanzibar-to-cape-town/prison-island/IMG_6910.jpg" alt="Prison Island 2">
     </a>
-    <a href="../from-zanzibar-to-cape-town/prison-island/_MG_6905.jpg">
-        <img src="../from-zanzibar-to-cape-town/prison-island/_MG_6905.jpg" alt="Prison Island 3">
+    <a href="../from-zanzibar-to-cape-town/prison-island/IMG_6905.jpg">
+        <img src="../from-zanzibar-to-cape-town/prison-island/IMG_6905.jpg" alt="Prison Island 3">
     </a>
-    <a href="../from-zanzibar-to-cape-town/prison-island/_MG_6902.jpg">
-        <img src="../from-zanzibar-to-cape-town/prison-island/_MG_6902.jpg" alt="Prison Island 4">
+    <a href="../from-zanzibar-to-cape-town/prison-island/IMG_6902.jpg">
+        <img src="../from-zanzibar-to-cape-town/prison-island/IMG_6902.jpg" alt="Prison Island 4">
     </a>
-    <a href="../from-zanzibar-to-cape-town/prison-island/_MG_6911.jpg">
-        <img src="../from-zanzibar-to-cape-town/prison-island/_MG_6911.jpg" alt="Prison Island 5">
+    <a href="../from-zanzibar-to-cape-town/prison-island/IMG_6911.jpg">
+        <img src="../from-zanzibar-to-cape-town/prison-island/IMG_6911.jpg" alt="Prison Island 5">
     </a>
     <a href="../from-zanzibar-to-cape-town/prison-island/IMG_1279.jpg">
         <img src="../from-zanzibar-to-cape-town/prison-island/IMG_1279.jpg" alt="Prison Island 6">
@@ -121,11 +121,11 @@ Curiously, I shared the boat ride from Stone Town with a group of Indian Catholi
 Another well-known adventure is Safari Blue – a full-day boat and snorkeling trip exploring the crystal-clear waters, sandbanks, and small islands southwest of Stone Town. The excursion includes opportunities for dolphin spotting, swimming, and enjoying a seafood barbecue on a remote island. Taking the budget option, I ended up in a crammed boat with lots of Africans – and befriended a Tanzanian family which took me out for some drinks in Stone Town afterwards. I also met my holy brothers from Prison Island again on a sandbank – the world is small over here.
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/safari-blue/_MG_6976.jpg">
-        <img src="../from-zanzibar-to-cape-town/safari-blue/_MG_6976.jpg" alt="Safari Blue 1">
+    <a href="../from-zanzibar-to-cape-town/safari-blue/IMG_6976.jpg">
+        <img src="../from-zanzibar-to-cape-town/safari-blue/IMG_6976.jpg" alt="Safari Blue 1">
     </a>
-    <a href="../from-zanzibar-to-cape-town/safari-blue/_MG_6973.jpg">
-        <img src="../from-zanzibar-to-cape-town/safari-blue/_MG_6973.jpg" alt="Safari Blue 2">
+    <a href="../from-zanzibar-to-cape-town/safari-blue/IMG_6973.jpg">
+        <img src="../from-zanzibar-to-cape-town/safari-blue/IMG_6973.jpg" alt="Safari Blue 2">
     </a>
     <a href="../from-zanzibar-to-cape-town/safari-blue/IMG_1337.jpg">
         <img src="../from-zanzibar-to-cape-town/safari-blue/IMG_1337.jpg" alt="Safari Blue 3">
@@ -154,32 +154,32 @@ Another well-known adventure is Safari Blue – a full-day boat and snorkeling t
 Approximately in the middle of the island is Jozani Forest, the largest remaining indigenous forest on Zanzibar. It is a biodiversity hotspot and home to the rare and endemic Zanzibar Red Colobus Monkeys. Right next to it is an extended mangrove forest – with at least three different types of mangroves. <!-- Guided walks through Jozani offer a chance to observe these playful primates and learn about the island’s unique flora and fauna. -->
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/jozani-forest/_MG_6986.jpg">
-        <img src="../from-zanzibar-to-cape-town/jozani-forest/_MG_6986.jpg" alt="Jozani Forest 1">
+    <a href="../from-zanzibar-to-cape-town/jozani-forest/IMG_6986.jpg">
+        <img src="../from-zanzibar-to-cape-town/jozani-forest/IMG_6986.jpg" alt="Jozani Forest 1">
     </a>
-    <a href="../from-zanzibar-to-cape-town/jozani-forest/_MG_6989.jpg">
-        <img src="../from-zanzibar-to-cape-town/jozani-forest/_MG_6989.jpg" alt="Jozani Forest 2">
+    <a href="../from-zanzibar-to-cape-town/jozani-forest/IMG_6989.jpg">
+        <img src="../from-zanzibar-to-cape-town/jozani-forest/IMG_6989.jpg" alt="Jozani Forest 2">
     </a>
-    <a href="../from-zanzibar-to-cape-town/jozani-forest/_MG_6991.jpg">
-        <img src="../from-zanzibar-to-cape-town/jozani-forest/_MG_6991.jpg" alt="Jozani Forest 3">
+    <a href="../from-zanzibar-to-cape-town/jozani-forest/IMG_6991.jpg">
+        <img src="../from-zanzibar-to-cape-town/jozani-forest/IMG_6991.jpg" alt="Jozani Forest 3">
     </a>
-    <a href="../from-zanzibar-to-cape-town/jozani-forest/_MG_6999.jpg">
-        <img src="../from-zanzibar-to-cape-town/jozani-forest/_MG_6999.jpg" alt="Jozani Forest 4">
+    <a href="../from-zanzibar-to-cape-town/jozani-forest/IMG_6999.jpg">
+        <img src="../from-zanzibar-to-cape-town/jozani-forest/IMG_6999.jpg" alt="Jozani Forest 4">
     </a>
-    <a href="../from-zanzibar-to-cape-town/jozani-forest/_MG_7003.jpg">
-        <img src="../from-zanzibar-to-cape-town/jozani-forest/_MG_7003.jpg" alt="Jozani Forest 5">
+    <a href="../from-zanzibar-to-cape-town/jozani-forest/IMG_7003.jpg">
+        <img src="../from-zanzibar-to-cape-town/jozani-forest/IMG_7003.jpg" alt="Jozani Forest 5">
     </a>
-    <a href="../from-zanzibar-to-cape-town/jozani-forest/_MG_7034.jpg">
-        <img src="../from-zanzibar-to-cape-town/jozani-forest/_MG_7034.jpg" alt="Jozani Forest 6">
+    <a href="../from-zanzibar-to-cape-town/jozani-forest/IMG_7034.jpg">
+        <img src="../from-zanzibar-to-cape-town/jozani-forest/IMG_7034.jpg" alt="Jozani Forest 6">
     </a>
-    <a href="../from-zanzibar-to-cape-town/jozani-forest/_MG_7018.jpg">
-        <img src="../from-zanzibar-to-cape-town/jozani-forest/_MG_7018.jpg" alt="Jozani Forest 7">
+    <a href="../from-zanzibar-to-cape-town/jozani-forest/IMG_7018.jpg">
+        <img src="../from-zanzibar-to-cape-town/jozani-forest/IMG_7018.jpg" alt="Jozani Forest 7">
     </a>
-    <a href="../from-zanzibar-to-cape-town/jozani-forest/_MG_7035.jpg">
-        <img src="../from-zanzibar-to-cape-town/jozani-forest/_MG_7035.jpg" alt="Jozani Forest 8">
+    <a href="../from-zanzibar-to-cape-town/jozani-forest/IMG_7035.jpg">
+        <img src="../from-zanzibar-to-cape-town/jozani-forest/IMG_7035.jpg" alt="Jozani Forest 8">
     </a>
-    <a href="../from-zanzibar-to-cape-town/jozani-forest/_MG_7044.jpg">
-        <img src="../from-zanzibar-to-cape-town/jozani-forest/_MG_7044.jpg" alt="Jozani Forest 9">
+    <a href="../from-zanzibar-to-cape-town/jozani-forest/IMG_7044.jpg">
+        <img src="../from-zanzibar-to-cape-town/jozani-forest/IMG_7044.jpg" alt="Jozani Forest 9">
     </a>
 </div>
 
@@ -195,8 +195,8 @@ Approximately in the middle of the island is Jozani Forest, the largest remainin
 Traveling further to the east coast, the island’s many beaches are also renowned for their powdery white sand and turquoise waters, offering a tranquil escape from the city. The coastline is dotted with palm trees, villages, and resorts. Paje is a lively beach village famous for its kite surfing scene and relaxed atmosphere, while nearby Michamvi offers a quieter, more secluded vibe. The Rock Restaurant is a popular spot for fresh seafood and local dishes, and Kae Funk Sunset Beach is known for its stunning sunsets, live music, and laid-back beach bar ambiance.
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/paje-michamvi/_MG_7045.jpg">
-        <img src="../from-zanzibar-to-cape-town/paje-michamvi/_MG_7045.jpg" alt="Paje Michamvi 1">
+    <a href="../from-zanzibar-to-cape-town/paje-michamvi/IMG_7045.jpg">
+        <img src="../from-zanzibar-to-cape-town/paje-michamvi/IMG_7045.jpg" alt="Paje Michamvi 1">
     </a>
     <a href="../from-zanzibar-to-cape-town/paje-michamvi/IMG_1358.jpg">
         <img src="../from-zanzibar-to-cape-town/paje-michamvi/IMG_1358.jpg" alt="Paje Michamvi 2">
@@ -240,23 +240,23 @@ A bit further on the right side, one passes by the Azania Front Lutheran Church.
     <a href="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_1470.jpg">
         <img src="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_1470.jpg" alt="Dar Es Salaam 2">
     </a>
-    <a href="../from-zanzibar-to-cape-town/dar-es-salaam/_MG_7059.jpg">
-        <img src="../from-zanzibar-to-cape-town/dar-es-salaam/_MG_7059.jpg" alt="Dar Es Salaam 3">
+    <a href="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_7059.jpg">
+        <img src="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_7059.jpg" alt="Dar Es Salaam 3">
     </a>
-    <a href="../from-zanzibar-to-cape-town/dar-es-salaam/_MG_7057.jpg">
-        <img src="../from-zanzibar-to-cape-town/dar-es-salaam/_MG_7057.jpg" alt="Dar Es Salaam 4">
+    <a href="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_7057.jpg">
+        <img src="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_7057.jpg" alt="Dar Es Salaam 4">
     </a>
-    <a href="../from-zanzibar-to-cape-town/dar-es-salaam/_MG_7056.jpg">
-        <img src="../from-zanzibar-to-cape-town/dar-es-salaam/_MG_7056.jpg" alt="Dar Es Salaam 5">
+    <a href="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_7056.jpg">
+        <img src="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_7056.jpg" alt="Dar Es Salaam 5">
     </a>
     <a href="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_1469.jpg">
         <img src="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_1469.jpg" alt="Dar Es Salaam 6">
     </a>
-    <a href="../from-zanzibar-to-cape-town/dar-es-salaam/_MG_7061-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/dar-es-salaam/_MG_7061-Pano.jpg" alt="Dar Es Salaam 7">
+    <a href="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_7061-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_7061-Pano.jpg" alt="Dar Es Salaam 7">
     </a>
-    <a href="../from-zanzibar-to-cape-town/dar-es-salaam/_MG_7069-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/dar-es-salaam/_MG_7069-Pano.jpg" alt="Dar Es Salaam 8">
+    <a href="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_7069-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/dar-es-salaam/IMG_7069-Pano.jpg" alt="Dar Es Salaam 8">
     </a>
 </div>
 
@@ -330,8 +330,8 @@ In Mbeya five of us from the first-class coach, that is Alex from Palo Alto, Cal
     <a href="../from-zanzibar-to-cape-town/lake-ngozi/IMG_1614.jpg">
         <img src="../from-zanzibar-to-cape-town/lake-ngozi/IMG_1614.jpg" alt="Lake Ngozi 1">
     </a>
-    <a href="../from-zanzibar-to-cape-town/lake-ngozi/_MG_7104.jpg">
-        <img src="../from-zanzibar-to-cape-town/lake-ngozi/_MG_7104.jpg" alt="Lake Ngozi 2">
+    <a href="../from-zanzibar-to-cape-town/lake-ngozi/IMG_7104.jpg">
+        <img src="../from-zanzibar-to-cape-town/lake-ngozi/IMG_7104.jpg" alt="Lake Ngozi 2">
     </a>
     <!-- <a href="../from-zanzibar-to-cape-town/lake-ngozi/_MG_7099.jpg">
         <img src="../from-zanzibar-to-cape-town/lake-ngozi/_MG_7099.jpg" alt="Dar Es Salaam 8">
@@ -371,17 +371,17 @@ In Mbeya five of us from the first-class coach, that is Alex from Palo Alto, Cal
 The next day, Alex and Ana continued towards Malawi, and I took a private tour with Henry to a view point on the [Great Rift Valley](https://en.wikipedia.org/wiki/East_African_Rift) close to the Mbeya, which itself lies within the valley. The day was a bit hazy so our sight was not perfect, but the pictures and footage still give an impression of the extent of it. 
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/rift-valley/_MG_7161-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/rift-valley/_MG_7161-Pano.jpg" alt="Great Rift Valley 1">
+    <a href="../from-zanzibar-to-cape-town/rift-valley/IMG_7161-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/rift-valley/IMG_7161-Pano.jpg" alt="Great Rift Valley 1">
     </a>
-    <a href="../from-zanzibar-to-cape-town/rift-valley/_MG_7112-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/rift-valley/_MG_7112-Pano.jpg" alt="Great Rift Valley 2">
+    <a href="../from-zanzibar-to-cape-town/rift-valley/IMG_7112-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/rift-valley/IMG_7112-Pano.jpg" alt="Great Rift Valley 2">
     </a>
-    <a href="../from-zanzibar-to-cape-town/rift-valley/_MG_7133-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/rift-valley/_MG_7133-Pano.jpg" alt="Great Rift Valley 3">
+    <a href="../from-zanzibar-to-cape-town/rift-valley/IMG_7133-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/rift-valley/IMG_7133-Pano.jpg" alt="Great Rift Valley 3">
     </a>
-    <a href="../from-zanzibar-to-cape-town/rift-valley/_MG_7117.jpg">
-        <img src="../from-zanzibar-to-cape-town/rift-valley/_MG_7117.jpg" alt="Great Rift Valley 4">
+    <a href="../from-zanzibar-to-cape-town/rift-valley/IMG_7117.jpg">
+        <img src="../from-zanzibar-to-cape-town/rift-valley/IMG_7117.jpg" alt="Great Rift Valley 4">
     </a>
 </div>
 
@@ -542,8 +542,8 @@ From the museum I went for an initial exploration of the falls and the Zambezi R
     <!-- <a href="../from-zanzibar-to-cape-town/livingstone/IMG_1939.jpg">
         <img src="../from-zanzibar-to-cape-town/livingstone/IMG_1939.jpg" alt="Dar Es Salaam 3">
     </a> -->
-    <a href="../from-zanzibar-to-cape-town/livingstone/_MG_7424.jpg">
-        <img src="../from-zanzibar-to-cape-town/livingstone/_MG_7424.jpg" alt="Zambezi River Sunset Cruise 1">
+    <a href="../from-zanzibar-to-cape-town/livingstone/IMG_7424.jpg">
+        <img src="../from-zanzibar-to-cape-town/livingstone/IMG_7424.jpg" alt="Zambezi River Sunset Cruise 1">
     </a>
     <a href="../from-zanzibar-to-cape-town/livingstone/IMG_1814.jpg">
         <img src="../from-zanzibar-to-cape-town/livingstone/IMG_1814.jpg" alt="Zambezi River Sunset Cruise 2">
@@ -551,20 +551,20 @@ From the museum I went for an initial exploration of the falls and the Zambezi R
     <a href="../from-zanzibar-to-cape-town/livingstone/IMG_1825.jpg">
         <img src="../from-zanzibar-to-cape-town/livingstone/IMG_1825.jpg" alt="Zambezi River Sunset Cruise 3">
     </a>
-    <a href="../from-zanzibar-to-cape-town/livingstone/_MG_7213.jpg">
-        <img src="../from-zanzibar-to-cape-town/livingstone/_MG_7213.jpg" alt="Zambezi River Sunset Cruise 4">
+    <a href="../from-zanzibar-to-cape-town/livingstone/IMG_7213.jpg">
+        <img src="../from-zanzibar-to-cape-town/livingstone/IMG_7213.jpg" alt="Zambezi River Sunset Cruise 4">
     </a>
-    <a href="../from-zanzibar-to-cape-town/livingstone/_MG_7328.jpg">
-        <img src="../from-zanzibar-to-cape-town/livingstone/_MG_7328.jpg" alt="Zambezi River Sunset Cruise 5">
+    <a href="../from-zanzibar-to-cape-town/livingstone/IMG_7328.jpg">
+        <img src="../from-zanzibar-to-cape-town/livingstone/IMG_7328.jpg" alt="Zambezi River Sunset Cruise 5">
     </a>
-    <a href="../from-zanzibar-to-cape-town/livingstone/_MG_7311.jpg">
-        <img src="../from-zanzibar-to-cape-town/livingstone/_MG_7311.jpg" alt="Zambezi River Sunset Cruise 6">
+    <a href="../from-zanzibar-to-cape-town/livingstone/IMG_7311.jpg">
+        <img src="../from-zanzibar-to-cape-town/livingstone/IMG_7311.jpg" alt="Zambezi River Sunset Cruise 6">
     </a>
-    <a href="../from-zanzibar-to-cape-town/livingstone/_MG_7321.jpg">
-        <img src="../from-zanzibar-to-cape-town/livingstone/_MG_7321.jpg" alt="Zambezi River Sunset Cruise 7">
+    <a href="../from-zanzibar-to-cape-town/livingstone/IMG_7321.jpg">
+        <img src="../from-zanzibar-to-cape-town/livingstone/IMG_7321.jpg" alt="Zambezi River Sunset Cruise 7">
     </a>
-    <a href="../from-zanzibar-to-cape-town/livingstone/_MG_7344-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/livingstone/_MG_7344-Pano.jpg" alt="Zambezi River Sunset Cruise 8">
+    <a href="../from-zanzibar-to-cape-town/livingstone/IMG_7344-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/livingstone/IMG_7344-Pano.jpg" alt="Zambezi River Sunset Cruise 8">
     </a>
 </div>
 
@@ -583,26 +583,26 @@ Referring to the falls, some locals speak of “The Smoke That Thunders” – a
 
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/victoria-falls/_MG_7357-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/victoria-falls/_MG_7357-Pano.jpg" alt="Victoria Falls 1">
+    <a href="../from-zanzibar-to-cape-town/victoria-falls/IMG_7357-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/victoria-falls/IMG_7357-Pano.jpg" alt="Victoria Falls 1">
     </a>
-    <a href="../from-zanzibar-to-cape-town/victoria-falls/_MG_7431.jpg">
-        <img src="../from-zanzibar-to-cape-town/victoria-falls/_MG_7431.jpg" alt="Victoria Falls 2">
+    <a href="../from-zanzibar-to-cape-town/victoria-falls/IMG_7431.jpg">
+        <img src="../from-zanzibar-to-cape-town/victoria-falls/IMG_7431.jpg" alt="Victoria Falls 2">
     </a>
-    <a href="../from-zanzibar-to-cape-town/victoria-falls/_MG_7416-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/victoria-falls/_MG_7416-Pano.jpg" alt="Victoria Falls 3">
+    <a href="../from-zanzibar-to-cape-town/victoria-falls/IMG_7416-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/victoria-falls/IMG_7416-Pano.jpg" alt="Victoria Falls 3">
     </a>
-    <a href="../from-zanzibar-to-cape-town/victoria-falls/_MG_7406.jpg">
-        <img src="../from-zanzibar-to-cape-town/victoria-falls/_MG_7406.jpg" alt="Victoria Falls 4">
+    <a href="../from-zanzibar-to-cape-town/victoria-falls/IMG_7406.jpg">
+        <img src="../from-zanzibar-to-cape-town/victoria-falls/IMG_7406.jpg" alt="Victoria Falls 4">
     </a>
     <a href="../from-zanzibar-to-cape-town/victoria-falls/IMG_1873.jpg">
         <img src="../from-zanzibar-to-cape-town/victoria-falls/IMG_1873.jpg" alt="Victoria Falls 5">
     </a>
-    <a href="../from-zanzibar-to-cape-town/victoria-falls/_MG_7438.jpg">
-        <img src="../from-zanzibar-to-cape-town/victoria-falls/_MG_7438.jpg" alt="Victoria Falls 6">
+    <a href="../from-zanzibar-to-cape-town/victoria-falls/IMG_7438.jpg">
+        <img src="../from-zanzibar-to-cape-town/victoria-falls/IMG_7438.jpg" alt="Victoria Falls 6">
     </a>
-    <a href="../from-zanzibar-to-cape-town/victoria-falls/UIVR9609.jpg">
-        <img src="../from-zanzibar-to-cape-town/victoria-falls/UIVR9609.jpg" alt="Victoria Falls 7">
+    <a href="../from-zanzibar-to-cape-town/victoria-falls/IMG_9609.jpg">
+        <img src="../from-zanzibar-to-cape-town/victoria-falls/IMG_9609.jpg" alt="Victoria Falls 7">
     </a>
     <a href="../from-zanzibar-to-cape-town/victoria-falls/IMG_1833.jpg">
         <img src="../from-zanzibar-to-cape-town/victoria-falls/IMG_1833.jpg" alt="Victoria Falls 8">
@@ -621,26 +621,26 @@ Referring to the falls, some locals speak of “The Smoke That Thunders” – a
 The following day I also explored the gorge below the falls by means of a whitewater rafting expedition with [Maano Adventures](https://www.maanoadventures.com/), which took us 14km down the river through ~20 rapids. Apart from the thrill of the rapids, the scenery of the gorge is fantastic and reminded me of a trip on the Colorado River in Canyonlands National Park some years ago. The company was in the process of filming a new commercial and offered us free access to the footage for a review. In comparison with the White Nile at Jinja – my only previous rafting experience – I found the Zambezi rapids a bit smaller and more manageable (the raft didn't tip over), but also the water level of the Zambezi was not at its peak. 
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/zambesi/DSC00574.jpg">
-        <img src="../from-zanzibar-to-cape-town/zambesi/DSC00574.jpg" alt="Zambezi Rafting 1">
+    <a href="../from-zanzibar-to-cape-town/zambesi/IMG_0574.jpg">
+        <img src="../from-zanzibar-to-cape-town/zambesi/IMG_0574.jpg" alt="Zambezi Rafting 1">
     </a>
-    <a href="../from-zanzibar-to-cape-town/zambesi/DSC00596.jpg">
-        <img src="../from-zanzibar-to-cape-town/zambesi/DSC00596.jpg" alt="Zambezi Rafting 2">
+    <a href="../from-zanzibar-to-cape-town/zambesi/IMG_0596.jpg">
+        <img src="../from-zanzibar-to-cape-town/zambesi/IMG_0596.jpg" alt="Zambezi Rafting 2">
     </a>
-    <a href="../from-zanzibar-to-cape-town/zambesi/DSC00615.jpg">
-        <img src="../from-zanzibar-to-cape-town/zambesi/DSC00615.jpg" alt="Zambezi Rafting 3">
+    <a href="../from-zanzibar-to-cape-town/zambesi/IMG_0615.jpg">
+        <img src="../from-zanzibar-to-cape-town/zambesi/IMG_0615.jpg" alt="Zambezi Rafting 3">
     </a>
-    <a href="../from-zanzibar-to-cape-town/zambesi/DSC00730.jpg">
-        <img src="../from-zanzibar-to-cape-town/zambesi/DSC00730.jpg" alt="Zambezi Rafting 4">
+    <a href="../from-zanzibar-to-cape-town/zambesi/IMG_0730.jpg">
+        <img src="../from-zanzibar-to-cape-town/zambesi/IMG_0730.jpg" alt="Zambezi Rafting 4">
     </a>
-    <a href="../from-zanzibar-to-cape-town/zambesi/DSC00645.jpg">
-        <img src="../from-zanzibar-to-cape-town/zambesi/DSC00645.jpg" alt="Zambezi Rafting 5">
+    <a href="../from-zanzibar-to-cape-town/zambesi/IMG_0645.jpg">
+        <img src="../from-zanzibar-to-cape-town/zambesi/IMG_0645.jpg" alt="Zambezi Rafting 5">
     </a>
-    <a href="../from-zanzibar-to-cape-town/zambesi/DSC00649.jpg">
-        <img src="../from-zanzibar-to-cape-town/zambesi/DSC00649.jpg" alt="Zambezi Rafting 6">
+    <a href="../from-zanzibar-to-cape-town/zambesi/IMG_0649.jpg">
+        <img src="../from-zanzibar-to-cape-town/zambesi/IMG_0649.jpg" alt="Zambezi Rafting 6">
     </a>
-    <a href="../from-zanzibar-to-cape-town/zambesi/_MG_7455-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/zambesi/_MG_7455-Pano.jpg" alt="Zambezi Rafting 7">
+    <a href="../from-zanzibar-to-cape-town/zambesi/IMG_7455-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/zambesi/IMG_7455-Pano.jpg" alt="Zambezi Rafting 7">
     </a>
 </div>
 
@@ -664,39 +664,39 @@ Located in northern Botswana, Chobe National Park is renowned for its large elep
 Overall, the package was a fantastic deal, offering a premier wildlife experience at a very affordable rate. Personal highlights for me, apart from the sizeable elephant herds and close up view of crocodiles sunbathing on the river banks, were a lion family with cubs, and, most notably, a live chase experience of a lioness silently approaching an antelope – with us in the middle of it. She even used safari cars as cover to get closer to the antelope – as you can see in the footage. 
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7471.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7471.jpg" alt="Chobe 1"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7469.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7469.jpg" alt="Chobe 2"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7475.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7475.jpg" alt="Chobe 3"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7477.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7477.jpg" alt="Chobe 4"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7493.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7493.jpg" alt="Chobe 5"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7498.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7498.jpg" alt="Chobe 6"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7585.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7585.jpg" alt="Chobe 7"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7523.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7523.jpg" alt="Chobe 8"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7533.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7533.jpg" alt="Chobe 9"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7557.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7557.jpg" alt="Chobe 10"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7602.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7602.jpg" alt="Chobe 11"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7610.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7610.jpg" alt="Chobe 12"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7607.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7607.jpg" alt="Chobe 13"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7668.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7668.jpg" alt="Chobe 14"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7685.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7685.jpg" alt="Chobe 15"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7627.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7627.jpg" alt="Chobe 16"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7653.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7653.jpg" alt="Chobe 17"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7517.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7517.jpg" alt="Chobe 18"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7656.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7656.jpg" alt="Chobe 19"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7660.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7660.jpg" alt="Chobe 20"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7729.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7729.jpg" alt="Chobe 21"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7678.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7678.jpg" alt="Chobe 22"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7679.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7679.jpg" alt="Chobe 23"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7710.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7710.jpg" alt="Chobe 24"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7723.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7723.jpg" alt="Chobe 25"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7727.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7727.jpg" alt="Chobe 26"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7731.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7731.jpg" alt="Chobe 27"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7749.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7749.jpg" alt="Chobe 28"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7732.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7732.jpg" alt="Chobe 29"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7746.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7746.jpg" alt="Chobe 30"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7521.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7521.jpg" alt="Chobe 31"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7752.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7752.jpg" alt="Chobe 32"></a>
-    <a href="../from-zanzibar-to-cape-town/chobe/_MG_7561.jpg"><img src="../from-zanzibar-to-cape-town/chobe/_MG_7561.jpg" alt="Chobe 33"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7471.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7471.jpg" alt="Chobe 1"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7469.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7469.jpg" alt="Chobe 2"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7475.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7475.jpg" alt="Chobe 3"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7477.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7477.jpg" alt="Chobe 4"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7493.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7493.jpg" alt="Chobe 5"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7498.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7498.jpg" alt="Chobe 6"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7585.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7585.jpg" alt="Chobe 7"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7523.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7523.jpg" alt="Chobe 8"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7533.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7533.jpg" alt="Chobe 9"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7557.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7557.jpg" alt="Chobe 10"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7602.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7602.jpg" alt="Chobe 11"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7610.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7610.jpg" alt="Chobe 12"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7607.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7607.jpg" alt="Chobe 13"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7668.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7668.jpg" alt="Chobe 14"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7685.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7685.jpg" alt="Chobe 15"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7627.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7627.jpg" alt="Chobe 16"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7653.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7653.jpg" alt="Chobe 17"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7517.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7517.jpg" alt="Chobe 18"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7656.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7656.jpg" alt="Chobe 19"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7660.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7660.jpg" alt="Chobe 20"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7729.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7729.jpg" alt="Chobe 21"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7678.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7678.jpg" alt="Chobe 22"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7679.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7679.jpg" alt="Chobe 23"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7710.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7710.jpg" alt="Chobe 24"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7723.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7723.jpg" alt="Chobe 25"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7727.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7727.jpg" alt="Chobe 26"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7731.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7731.jpg" alt="Chobe 27"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7749.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7749.jpg" alt="Chobe 28"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7732.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7732.jpg" alt="Chobe 29"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7746.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7746.jpg" alt="Chobe 30"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7521.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7521.jpg" alt="Chobe 31"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7752.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7752.jpg" alt="Chobe 32"></a>
+    <a href="../from-zanzibar-to-cape-town/chobe/IMG_7561.jpg"><img src="../from-zanzibar-to-cape-town/chobe/IMG_7561.jpg" alt="Chobe 33"></a>
 </div>
 
 <p align="center">Chobe National Park, Botsuana</p>
@@ -969,8 +969,8 @@ The Western Cape has a rich and complex history shaped by indigenous cultures, c
 From the airport, I went straight to Stellenbosch, where my (former) host family during my research visit in spring 2023 had invited me to stay with them again during my time in Western Cape. The elderly couple, lovingly called papa Jurie and mama Meggie, have been accomodating students at various levels for many years, and, apart from me, were currently hosting Khaled, a postdoc in statistics from Iran, and Rajiv, a master student in theology from Sri Lanka. Thus, I was in good company right away, and, as during my stay in early 2023, we did excursions together like a real family. But I also took this time to just relax and catch-up with a few people at the university. 
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_E6465.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_E6465.jpg" alt="Stellenbosch 1"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/QQME6957.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/QQME6957.jpg" alt="Stellenbosch 2"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_6465.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_6465.jpg" alt="Stellenbosch 1"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_6957.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_6957.jpg" alt="Stellenbosch 2"></a>
 </div>
 
 <p align="center">My Host Family in Stellenbosch – 2023 (LHS) and 2025 (RHS)</p>
@@ -980,19 +980,19 @@ Stellenbosch, one of South Africa's oldest towns, is nestled in the heart of the
 <div class="tiled-gallery">
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2522.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2522.jpg" alt="Stellenbosch 3"></a>
     <!-- <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7832-Pano.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7832-Pano.jpg" alt="soweto 5"></a> -->
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_4844-Pano.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_4844-Pano.jpg" alt="Stellenbosch 4"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/KSSF7612.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/KSSF7612.jpg" alt="Stellenbosch 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_4844-Pano.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_4844-Pano.jpg" alt="Stellenbosch 4"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7612.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7612.jpg" alt="Stellenbosch 5"></a>
     <!-- <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2718.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2718.jpg" alt="soweto 5"></a> -->
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/KDGW0404.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/KDGW0404.jpg" alt="Stellenbosch 6"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_0404.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_0404.jpg" alt="Stellenbosch 6"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2720.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2720.jpg" alt="Stellenbosch 7"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2397.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2397.jpg" alt="Stellenbosch 8"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2470.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2470.jpg" alt="Stellenbosch 9"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7805.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7805.jpg" alt="Stellenbosch 10"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7805.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7805.jpg" alt="Stellenbosch 10"></a>
     <!-- 
     <a href="../from-zanzibar-to-cape-town/stellenbosch/KDGW0404.JPG"><img src="../from-zanzibar-to-cape-town/stellenbosch/KDGW0404.JPG" alt="soweto 5"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7806.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7806.jpg" alt="soweto 5"></a>
    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7810.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7810.jpg" alt="soweto 5"></a> -->
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7818.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7818.jpg" alt="Stellenbosch 11"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7818.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7818.jpg" alt="Stellenbosch 11"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2511.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2511.jpg" alt="Stellenbosch 12"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2590.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2590.jpg" alt="Stellenbosch 13"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2588.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2588.jpg" alt="Stellenbosch 14"></a>
@@ -1000,12 +1000,12 @@ Stellenbosch, one of South Africa's oldest towns, is nestled in the heart of the
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_5952.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_5952.jpg" alt="Stellenbosch 16"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_5953.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_5953.jpg" alt="Stellenbosch 17"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_5783.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_5783.jpg" alt="Stellenbosch 18"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/TEWJ5554.JPG"><img src="../from-zanzibar-to-cape-town/stellenbosch/TEWJ5554.JPG" alt="Stellenbosch 19"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/TOEK5143.JPG"><img src="../from-zanzibar-to-cape-town/stellenbosch/TOEK5143.JPG" alt="Stellenbosch 20"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_5554.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_5554.jpg" alt="Stellenbosch 19"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_5143.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_5143.jpg" alt="Stellenbosch 20"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2462.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2462.jpg" alt="Stellenbosch 21"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2426.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2426.jpg" alt="Stellenbosch 22"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2690.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2690.jpg" alt="Stellenbosch 23"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/MAOR0787.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/MAOR0787.jpg" alt="Stellenbosch 24"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_0787.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_0787.jpg" alt="Stellenbosch 24"></a>
 </div>
 
 <p align="center">Stellenbosch and Surrounding Area (2023 and 2025)</p>
@@ -1020,15 +1020,15 @@ Stellenbosch, one of South Africa's oldest towns, is nestled in the heart of the
 One of the go-to places for a relaxing sunday afternoon in Stellenbosch is Lanzerac Wine Estate. Located just outside the historic town it is one of South Africa’s most iconic and storied wine farms, with a history dating back to 1692. The estate has played a significant role in the development of South African wine, most notably as the birthplace of the first bottled Pinotage — a uniquely South African varietal — in 1961. While the state is beautiful, the slave bell in the third picture is a solemn reminder of the darker parts of Western Cape history. <!-- Today, Lanzerac remains a landmark of Stellenbosch’s wine culture, blending historical significance with contemporary sophistication. -->
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7815.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7815.jpg" alt="Lanzerac Wine Estate 1"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7765.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7765.jpg" alt="Lanzerac Wine Estate 2"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7769.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7769.jpg" alt="Lanzerac Wine Estate 3"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7772.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7772.jpg" alt="Lanzerac Wine Estate 4"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7773.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7773.jpg" alt="Lanzerac Wine Estate 5"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7815.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7815.jpg" alt="Lanzerac Wine Estate 1"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7765.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7765.jpg" alt="Lanzerac Wine Estate 2"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7769.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7769.jpg" alt="Lanzerac Wine Estate 3"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7772.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7772.jpg" alt="Lanzerac Wine Estate 4"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7773.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7773.jpg" alt="Lanzerac Wine Estate 5"></a>
     <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_2396.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_2396.jpg" alt="Lanzerac Wine Estate 6"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7780.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7780.jpg" alt="Lanzerac Wine Estate 7"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7792.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7792.jpg" alt="Lanzerac Wine Estate 8"></a>
-    <a href="../from-zanzibar-to-cape-town/stellenbosch/_MG_7778.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/_MG_7778.jpg" alt="Lanzerac Wine Estate 9"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7780.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7780.jpg" alt="Lanzerac Wine Estate 7"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7792.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7792.jpg" alt="Lanzerac Wine Estate 8"></a>
+    <a href="../from-zanzibar-to-cape-town/stellenbosch/IMG_7778.jpg"><img src="../from-zanzibar-to-cape-town/stellenbosch/IMG_7778.jpg" alt="Lanzerac Wine Estate 9"></a>
 </div>
 
 <p align="center">Lanzerac Wine Estate, Stellenbosch (2025)</p>
@@ -1043,7 +1043,7 @@ One of the go-to places for a relaxing sunday afternoon in Stellenbosch is Lanze
 From Stellenbosch it takes about 45 minutes by car to get to Cape Town. While the city offers many serene corners, the [Victoria and Alfred (V&A) Waterfront](https://en.wikipedia.org/wiki/V%26A_Waterfront) is a particularly vibrant cultural and commercial hub that seamlessly blends history with modern development, set against the stunning backdrop of Table Mountain. Named after Queen Victoria and her son Prince Alfred, who began construction of the original breakwater in 1860, the waterfront played a key role in the city's maritime history as a bustling port. Over time, the area was transformed from a working harbor into one of South Africa’s most visited attractions, preserving historic buildings and docklands while introducing luxury hotels, world-class shopping, fine dining, and entertainment - in stark contrast to its earlier milieu of sailors and prostitutes. 
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/cape-town/_MG_4833-Pano.jpg"><img src="../from-zanzibar-to-cape-town/cape-town/_MG_4833-Pano.jpg" alt="V&A Waterfront 1"></a>
+    <a href="../from-zanzibar-to-cape-town/cape-town/IMG_4833-Pano.jpg"><img src="../from-zanzibar-to-cape-town/cape-town/IMG_4833-Pano.jpg" alt="V&A Waterfront 1"></a>
     <a href="../from-zanzibar-to-cape-town/cape-town/IMG_2603.jpg"><img src="../from-zanzibar-to-cape-town/cape-town/IMG_2603.jpg" alt="V&A Waterfront 2"></a>
     <a href="../from-zanzibar-to-cape-town/cape-town/IMG_2595.jpg"><img src="../from-zanzibar-to-cape-town/cape-town/IMG_2595.jpg" alt="V&A Waterfront 3"></a>
     <a href="../from-zanzibar-to-cape-town/cape-town/IMG_2608.jpg"><img src="../from-zanzibar-to-cape-town/cape-town/IMG_2608.jpg" alt="V&A Waterfront 4"></a>
@@ -1091,11 +1091,11 @@ I also did not miss the opportunity to hike Table Mountain again. Starting in th
 As the iconic landmark of Cape Town, Table Mountain stands 1,085 meters above sea level, its flat-topped summit offering sweeping panoramic views of the city, the Atlantic Ocean, and the surrounding Cape Peninsula. Geologically, Table Mountain is over 600 million years old, making it one of the oldest mountains on Earth. Its unique profile, coupled with its rich biodiversity, has earned it a spot as one of the [New 7 Wonders of Nature](https://en.wikipedia.org/wiki/New_7_Wonders_of_Nature). The mountain is home to thousands of plant species, including the rare fynbos, as well as a variety of animal life. <!-- Visitors can take the scenic cable car ride to the top, or for the more adventurous, hike one of the several routes leading up the mountain. Whether shrouded in mist or bathed in sunlight, Table Mountain remains a symbol of Cape Town’s natural beauty and a must-see destination for travelers. -->
 
 <p align="center">
-    <a href="../from-zanzibar-to-cape-town/table-mountain/_MG_4979-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/table-mountain/_MG_4979-Pano.jpg" alt="Table Mountain 1" style="max-width: 1090px; width: 100%; margin-bottom: 5px; margin-top: 5px;">
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_4979-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/table-mountain/IMG_4979-Pano.jpg" alt="Table Mountain 1" style="max-width: 1090px; width: 100%; margin-bottom: 5px; margin-top: 5px;">
     </a>
-    <a href="../from-zanzibar-to-cape-town/table-mountain/_MG_5027-Pano.jpg">
-        <img src="../from-zanzibar-to-cape-town/table-mountain/_MG_5027-Pano.jpg" alt="Table Mountain 2" style="max-width: 1090px; width: 100%; margin-bottom: 5px; margin-top: 5px;">
+    <a href="../from-zanzibar-to-cape-town/table-mountain/IMG_5027-Pano.jpg">
+        <img src="../from-zanzibar-to-cape-town/table-mountain/IMG_5027-Pano.jpg" alt="Table Mountain 2" style="max-width: 1090px; width: 100%; margin-bottom: 5px; margin-top: 5px;">
     </a>
     Table Mountain View from Bloubergstrand & View on Cape Town from the Lower Cable Car Station (2023)
 </p>
@@ -1108,15 +1108,15 @@ Because Khaled and Rajiv had to be at university, Jurie and Maggie invited a you
 
 <div class="tiled-gallery">
     <!-- <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7864.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7864.jpg" alt="soweto 5"></a> -->
-    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7873-Pano.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7873-Pano.jpg" alt="Hermanus 1"></a>
-    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7884.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7884.jpg" alt="Hermanus 2"></a>
-    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7898.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7898.jpg" alt="Hermanus 3"></a>
-    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7900-Pano.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7900-Pano.jpg" alt="Hermanus 4"></a>
-    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7917.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7917.jpg" alt="Hermanus 5"></a> 
-    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7920.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7920.jpg" alt="Hermanus 6"></a>
-    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7923.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7923.jpg" alt="Hermanus 7"></a>
-    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7921-Pano.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7921-Pano.jpg" alt="Hermanus 8"></a>
-    <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7925.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7925.jpg" alt="Hermanus 9"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/IMG_7873-Pano.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/IMG_7873-Pano.jpg" alt="Hermanus 1"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/IMG_7884.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/IMG_7884.jpg" alt="Hermanus 2"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/IMG_7898.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/IMG_7898.jpg" alt="Hermanus 3"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/IMG_7900-Pano.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/IMG_7900-Pano.jpg" alt="Hermanus 4"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/IMG_7917.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/IMG_7917.jpg" alt="Hermanus 5"></a> 
+    <a href="../from-zanzibar-to-cape-town/hermanus/IMG_7920.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/IMG_7920.jpg" alt="Hermanus 6"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/IMG_7923.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/IMG_7923.jpg" alt="Hermanus 7"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/IMG_7921-Pano.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/IMG_7921-Pano.jpg" alt="Hermanus 8"></a>
+    <a href="../from-zanzibar-to-cape-town/hermanus/IMG_7925.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/IMG_7925.jpg" alt="Hermanus 9"></a>
     <!-- 
     <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7927.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7927.jpg" alt="soweto 5"></a>
     <a href="../from-zanzibar-to-cape-town/hermanus/_MG_7931.jpg"><img src="../from-zanzibar-to-cape-town/hermanus/_MG_7931.jpg" alt="soweto 5"></a>
@@ -1128,26 +1128,26 @@ Because Khaled and Rajiv had to be at university, Jurie and Maggie invited a you
 The West Coast National Park, situated to the northwest of Cape Town, is a stunning natural reserve that showcases the raw beauty of South Africa’s coastline. Stretching from the Atlantic Ocean to the inland wetlands of the Langebaan Lagoon, the park is renowned for its diverse ecosystems, including sandy beaches, salt marshes, and dense coastal fynbos. It is also a haven for birdwatchers, with over 250 species recorded, including migratory birds that flock to the park during the summer months. The park’s most famous attraction is its annual wildflower display, which paints the landscape in vibrant hues of orange, purple, and yellow as spring arrives – which was the main reason for our trip. It is also home to a variety of wild animals, such as zebras and oryx antelopes. <!-- Visitors can explore the park’s hiking trails, enjoy picnics by the lagoon, or take in the breathtaking views from the top of the Bokmakierie Lookout. The West Coast National Park offers a serene escape from the bustle of Cape Town, providing a perfect blend of natural beauty, wildlife, and outdoor recreation. -->
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7933.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7933.jpg" alt="West Coast National Park 1"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7961.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7961.jpg" alt="West Coast National Park 2"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7957.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7957.jpg" alt="West Coast National Park 3"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7947.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7947.jpg" alt="West Coast National Park 4"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7952.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7952.jpg" alt="West Coast National Park 5"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7953.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7953.jpg" alt="West Coast National Park 6"></a> 
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8001.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8001.jpg" alt="West Coast National Park 7"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7982.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7982.jpg" alt="West Coast National Park 8"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7991.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7991.jpg" alt="West Coast National Park 9"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8010.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8010.jpg" alt="West Coast National Park 10"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7994.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7994.jpg" alt="West Coast National Park 11"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7998.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7998.jpg" alt="West Coast National Park 12"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_7999.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_7999.jpg" alt="West Coast National Park 13"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8024.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8024.jpg" alt="West Coast National Park 14"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8014.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8014.jpg" alt="West Coast National Park 15"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8016.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8016.jpg" alt="West Coast National Park 16"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8020.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8020.jpg" alt="West Coast National Park 17"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/_MG_8023.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/_MG_8023.jpg" alt="West Coast National Park 18"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_7933.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_7933.jpg" alt="West Coast National Park 1"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_7961.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_7961.jpg" alt="West Coast National Park 2"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_7957.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_7957.jpg" alt="West Coast National Park 3"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_7947.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_7947.jpg" alt="West Coast National Park 4"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_7952.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_7952.jpg" alt="West Coast National Park 5"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_7953.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_7953.jpg" alt="West Coast National Park 6"></a> 
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_8001.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_8001.jpg" alt="West Coast National Park 7"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_7982.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_7982.jpg" alt="West Coast National Park 8"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_7991.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_7991.jpg" alt="West Coast National Park 9"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_8010.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_8010.jpg" alt="West Coast National Park 10"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_7994.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_7994.jpg" alt="West Coast National Park 11"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_7998.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_7998.jpg" alt="West Coast National Park 12"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_7999.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_7999.jpg" alt="West Coast National Park 13"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_8024.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_8024.jpg" alt="West Coast National Park 14"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_8014.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_8014.jpg" alt="West Coast National Park 15"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_8016.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_8016.jpg" alt="West Coast National Park 16"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_8020.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_8020.jpg" alt="West Coast National Park 17"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_8023.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_8023.jpg" alt="West Coast National Park 18"></a>
     <a href="../from-zanzibar-to-cape-town/west-coast/IMG_2712.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_2712.jpg" alt="West Coast National Park 19"></a>
-    <a href="../from-zanzibar-to-cape-town/west-coast/NNIF8042.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/NNIF8042.jpg" alt="West Coast National Park 20"></a>
+    <a href="../from-zanzibar-to-cape-town/west-coast/IMG_8042.jpg"><img src="../from-zanzibar-to-cape-town/west-coast/IMG_8042.jpg" alt="West Coast National Park 20"></a>
 </div>
 
 <p align="center">West Coast National Park (2025)</p>
