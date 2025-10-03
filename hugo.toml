@@ -51,7 +51,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "^README", "\\.
   enableMermaid = true
   
   # Appearance
-  colorScheme = "auto"  # auto, light, dark
+  colorScheme = "dark"  # auto, light, dark
   fontSize = "medium"   # small, medium, large
   
   # Home page
