@@ -8,7 +8,7 @@ categories = ['travel']
 +++
 
 
-In mid-July 2025, I decided to embark on a 6-week adventure from Zanzibar/Dar es Salaam to Cape Town via public transport. My reasons for taking this trip were burnout – I had finished my PhD in 2024 without any real vacation that year and had gone straight into short-term consulting and job searching – and my frustration with the inhumane job market this year, particularly in the US and international institutions. I had also been conceiving this trip for a while, and felt like it was the right time to just do it. My original inspiration had been the [Rovos Rail](https://rovos.com/) itinerary shown below. 
+In mid-July 2025, I decided to embark on a 6-week adventure from Zanzibar/Dar es Salaam to Cape Town by public transport. My reasons for taking this trip were burnout – I had finished my PhD in 2024 without any real vacation that year and had gone straight into short-term consulting and job searching – and my frustration with the inhumane job market this year, particularly in the US and international institutions. I had also been conceiving this trip for a while, and felt like it was the right time to just do it. My original inspiration had been the [Rovos Rail](https://rovos.com/) itinerary shown below. 
 
 <p align="center">
     <a href="../from-zanzibar-to-cape-town/IMG_1505.jpg"><img src="../from-zanzibar-to-cape-town/IMG_1505.jpg" alt="Rovos Rail Itinerary" style="max-width: 600px; width: 100%; margin-bottom: 5px; margin-top: 5px;"></a>
