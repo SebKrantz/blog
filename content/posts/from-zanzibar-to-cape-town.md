@@ -26,7 +26,7 @@ So I searched for flights, and found that flying directly to Zanzibar with Condo
 Once the center of the East African slave and spice trades, Zanzibar was ruled by Arab sultans and later became a British protectorate. Its rich cultural heritage reflects centuries of African, Arab, Persian, and European influences. Stone Town is the historic heart of Zanzibar City – a labyrinth of narrow alleys, bustling bazaars, and intricately carved wooden doors. Its UNESCO World Heritage status highlights its unique blend of architectural styles and vibrant street life. A particular highlight to me is the fresh sugarcane juice, which is not easily found elsewhere in Africa. Below you can see me consuming it first alone, and then with Ahmad, a local statistician, and his wife.  
 
 <div class="tiled-gallery">
-    <a href="../from-zanzibar-to-cape-town/stone-town/_MG_6881.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/_MG_6881.jpg" alt="Stone Town 1"></a>
+    <a href="../from-zanzibar-to-cape-town/stone-town/_MG_6881.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/IMG_6881.jpg" alt="Stone Town 1"></a>
     <a href="../from-zanzibar-to-cape-town/stone-town/IMG_1237.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/IMG_1237.jpg" alt="Stone Town 2"></a>
     <a href="../from-zanzibar-to-cape-town/stone-town/XIZS3777.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/XIZS3777.jpg" alt="Stone Town 3"></a>
     <a href="../from-zanzibar-to-cape-town/stone-town/IMG_1246.jpg"><img src="../from-zanzibar-to-cape-town/stone-town/IMG_1246.jpg" alt="Stone Town 4"></a>
